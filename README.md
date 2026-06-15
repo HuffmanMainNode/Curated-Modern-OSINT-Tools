@@ -306,3 +306,53 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Origin & Ownership**: Owned and maintained by **j3ssie** (Entity Type: *User*). Licensed under: *MIT License*.
 - **Stars**: 6419 | **Last Updated**: 2026-06-15
 
+
+### Next-Era & Innovative AI OSINT Tools
+
+*Continuing the expansion into next-generation methodologies, cutting-edge graph structures, and specialized AI agents (both viral and niche).*
+
+#### [arn-c0de/Crawllama](https://github.com/arn-c0de/Crawllama) - *Ai Agents*
+- **Description**: CrawlLama 🦙 is an  local AI agent that answers questions via Ollama and integrates web- and RAG-based research.
+- **Origin & Ownership**: Owned and maintained by **arn-c0de** (Entity Type: *User*). Licensed under: *Other*.
+- **Stars**: 63 | **Last Updated**: 2026-06-13
+
+#### [bm-github/owasp-social-osint-agent](https://github.com/bm-github/owasp-social-osint-agent) - *Ai Agents*
+- **Description**: AI-powered OSINT framework for multi-platform social media intelligence gathering using OpenAI-compatible APIs. Features vision analysis, network mapping, and dual web/CLI interfaces.
+- **Origin & Ownership**: Owned and maintained by **bm-github** (Entity Type: *User*). Licensed under: *MIT License*.
+- **Stars**: 78 | **Last Updated**: 2026-06-13
+
+#### [smixs/osint-skill](https://github.com/smixs/osint-skill) - *Ai Agents*
+- **Description**: OSINT Skill for AI agents (Claude Code, OpenClaw, Codex, OpenCode) — from a name to a scored dossier with psychoprofile, career map, and confidence grades. 55+ Apify actors, 7 search APIs, swarm mode. Early Beta.
+- **Origin & Ownership**: Owned and maintained by **smixs** (Entity Type: *User*). Licensed under: *MIT License*.
+- **Stars**: 59 | **Last Updated**: 2026-06-15
+
+#### [pete731/sati](https://github.com/pete731/sati) - *Niche Ai Agents*
+- **Description**: 🤖 Establish verifiable identities and reputations for AI agents on Solana with SATI, bridging gaps in agent infrastructure and payment management.
+- **Origin & Ownership**: Owned and maintained by **pete731** (Entity Type: *User*). Licensed under: *Apache License 2.0*.
+- **Stars**: 1 | **Last Updated**: 2026-06-15
+
+#### [winless-boozing857/agent-lens](https://github.com/winless-boozing857/agent-lens) - *Niche Ai Agents*
+- **Description**: Track multi-session agent runs with Claude Agent SDK, store them in ATIF, and track file state changes for alignment research
+- **Origin & Ownership**: Owned and maintained by **winless-boozing857** (Entity Type: *User*). Licensed under: *MIT License*.
+- **Stars**: 1 | **Last Updated**: 2026-06-15
+
+#### [dublen5269/Sicry](https://github.com/dublen5269/Sicry) - *Niche Ai Agents*
+- **Description**: Enable AI agents to access Tor and .onion sites with a simple Python layer supporting built-in search engines and OSINT tools.
+- **Origin & Ownership**: Owned and maintained by **dublen5269** (Entity Type: *User*). Licensed under: *Other*.
+- **Stars**: 1 | **Last Updated**: 2026-06-15
+
+#### [doniboyd/IOC-Checker-Pro](https://github.com/doniboyd/IOC-Checker-Pro) - *Next Gen*
+- **Description**: 🛡️ Analyze IOCs in real-time with IOC Checker Pro, leveraging VirusTotal API for smart threat classification and efficient API limit management.
+- **Origin & Ownership**: Owned and maintained by **doniboyd** (Entity Type: *User*). Licensed under: *No License / Custom*.
+- **Stars**: 0 | **Last Updated**: 2026-06-15
+
+#### [luoyinhu/MetaViewer](https://github.com/luoyinhu/MetaViewer) - *Next Gen*
+- **Description**: 🌌 Discover metadata from your images instantly with MetaViewer, a sleek, client-side web app for photographers and digital forensics enthusiasts.
+- **Origin & Ownership**: Owned and maintained by **luoyinhu** (Entity Type: *User*). Licensed under: *MIT License*.
+- **Stars**: 1 | **Last Updated**: 2026-06-15
+
+#### [elliotwutingfeng/ThreatFox-IOC-IPs](https://github.com/elliotwutingfeng/ThreatFox-IOC-IPs) - *Next Gen*
+- **Description**: Machine-readable .txt IP blocklist from ThreatFox by Abuse.ch, updated every hour.
+- **Origin & Ownership**: Owned and maintained by **elliotwutingfeng** (Entity Type: *User*). Licensed under: *BSD 3-Clause "New" or "Revised" License*.
+- **Stars**: 55 | **Last Updated**: 2026-06-15
+

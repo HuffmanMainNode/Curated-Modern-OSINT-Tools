@@ -133,3 +133,30 @@
 [submodule "tools/expanded/osmedeus"]
 	path = tools/expanded/osmedeus
 	url = https://github.com/j3ssie/osmedeus
+[submodule "tools/ai-agents/Crawllama"]
+	path = tools/ai-agents/Crawllama
+	url = https://github.com/arn-c0de/Crawllama
+[submodule "tools/ai-agents/owasp-social-osint-agent"]
+	path = tools/ai-agents/owasp-social-osint-agent
+	url = https://github.com/bm-github/owasp-social-osint-agent
+[submodule "tools/ai-agents/osint-skill"]
+	path = tools/ai-agents/osint-skill
+	url = https://github.com/smixs/osint-skill
+[submodule "tools/niche-ai-agents/sati"]
+	path = tools/niche-ai-agents/sati
+	url = https://github.com/pete731/sati
+[submodule "tools/niche-ai-agents/agent-lens"]
+	path = tools/niche-ai-agents/agent-lens
+	url = https://github.com/winless-boozing857/agent-lens
+[submodule "tools/niche-ai-agents/Sicry"]
+	path = tools/niche-ai-agents/Sicry
+	url = https://github.com/dublen5269/Sicry
+[submodule "tools/next-gen/IOC-Checker-Pro"]
+	path = tools/next-gen/IOC-Checker-Pro
+	url = https://github.com/doniboyd/IOC-Checker-Pro
+[submodule "tools/next-gen/MetaViewer"]
+	path = tools/next-gen/MetaViewer
+	url = https://github.com/luoyinhu/MetaViewer
+[submodule "tools/next-gen/ThreatFox-IOC-IPs"]
+	path = tools/next-gen/ThreatFox-IOC-IPs
+	url = https://github.com/elliotwutingfeng/ThreatFox-IOC-IPs
