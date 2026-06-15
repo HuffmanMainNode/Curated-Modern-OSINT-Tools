@@ -355,3 +355,21 @@
 [submodule "tools/hot-topics/urlhunter"]
 	path = tools/hot-topics/urlhunter
 	url = https://github.com/utkusen/urlhunter
+[submodule "tools/threat-actor-profiling/AI-OSINT-Security-Analyzer"]
+	path = tools/threat-actor-profiling/AI-OSINT-Security-Analyzer
+	url = https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer
+[submodule "tools/threat-actor-profiling/huntkit"]
+	path = tools/threat-actor-profiling/huntkit
+	url = https://github.com/perchfuruncle656/huntkit
+[submodule "tools/threat-actor-profiling/Advanced-Threat-Intelligence-Platform-Dynamic-Policy-Enforcer"]
+	path = tools/threat-actor-profiling/Advanced-Threat-Intelligence-Platform-Dynamic-Policy-Enforcer
+	url = https://github.com/tryhackmeacct-netizen/Advanced-Threat-Intelligence-Platform-Dynamic-Policy-Enforcer
+[submodule "tools/autonomous-intel/AI-OSINT-Security-Analyzer"]
+	path = tools/autonomous-intel/AI-OSINT-Security-Analyzer
+	url = https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer
+[submodule "tools/autonomous-intel/JARVIS"]
+	path = tools/autonomous-intel/JARVIS
+	url = https://github.com/affaan-m/JARVIS
+[submodule "tools/autonomous-intel/fackel"]
+	path = tools/autonomous-intel/fackel
+	url = https://github.com/flaviomilan/fackel

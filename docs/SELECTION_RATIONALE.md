@@ -59,3 +59,12 @@
   - *Reasoninging*: Search tools to help you find people, focused towards UK resources.
 - **[NexvisionLab/Darkweb-search-engine](https://github.com/NexvisionLab/Darkweb-search-engine)**: Selected for its impact in `leak-osint`. With 135 stars, it proves its reliability. 
   - *Reasoninging*: Dark Web & Deep Web Search Engine. Data Crawler and indexer for Darkweb , OSINT Tools for the Dark Web
+
+## Automated Hunt Integration
+
+- **[Armaan29-09-2005/AI-OSINT-Security-Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)**: Integrated into `threat-actor-profiling`. Validated maintenance (2026-06-15). Addresses complex investigative challenges beyond basic reconnaissance.
+- **[perchfuruncle656/huntkit](https://github.com/perchfuruncle656/huntkit)**: Integrated into `threat-actor-profiling`. Validated maintenance (2026-06-15). Addresses complex investigative challenges beyond basic reconnaissance.
+- **[tryhackmeacct-netizen/Advanced-Threat-Intelligence-Platform-Dynamic-Policy-Enforcer](https://github.com/tryhackmeacct-netizen/Advanced-Threat-Intelligence-Platform-Dynamic-Policy-Enforcer)**: Integrated into `threat-actor-profiling`. Validated maintenance (2026-06-14). Addresses complex investigative challenges beyond basic reconnaissance.
+- **[Armaan29-09-2005/AI-OSINT-Security-Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)**: Integrated into `autonomous-intel`. Validated maintenance (2026-06-15). Addresses complex investigative challenges beyond basic reconnaissance.
+- **[affaan-m/JARVIS](https://github.com/affaan-m/JARVIS)**: Integrated into `autonomous-intel`. Validated maintenance (2026-06-15). Addresses complex investigative challenges beyond basic reconnaissance.
+- **[flaviomilan/fackel](https://github.com/flaviomilan/fackel)**: Integrated into `autonomous-intel`. Validated maintenance (2026-06-09). Addresses complex investigative challenges beyond basic reconnaissance.

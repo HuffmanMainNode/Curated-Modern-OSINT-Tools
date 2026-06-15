@@ -720,3 +720,38 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: a recon tool that allows searching on URLs that are exposed via shortener services
 - **Owner**: utkusen | **Stars**: 1682 | **Last Updated**: 2026-06-14
 
+
+### 🕵️ Automated Hunt Additions
+
+*Tools integrated via the Automated Investigation Prompt, focusing on complex challenges like threat actor profiling and autonomous intelligence.*
+
+#### [Armaan29-09-2005/AI-OSINT-Security-Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)
+- **Category**: `threat-actor-profiling`
+- **Description**: AI OSINT Security Analyzer is an intelligent platform that leverages AI to perform autonomous investigations across various intelligence sources. With features like multi-source integration and real-time threat intelligence, it ensures comprehensive security assessments. 🛡️🔍
+- **Stars**: 12 | **Last Updated**: 2026-06-15
+
+#### [perchfuruncle656/huntkit](https://github.com/perchfuruncle656/huntkit)
+- **Category**: `threat-actor-profiling`
+- **Description**: Automate OSINT investigations and threat intelligence workflows with this Claude Code toolkit for case management and evidence collection.
+- **Stars**: 3 | **Last Updated**: 2026-06-15
+
+#### [tryhackmeacct-netizen/Advanced-Threat-Intelligence-Platform-Dynamic-Policy-Enforcer](https://github.com/tryhackmeacct-netizen/Advanced-Threat-Intelligence-Platform-Dynamic-Policy-Enforcer)
+- **Category**: `threat-actor-profiling`
+- **Description**: Finance & Banking - Advanced Threat Intelligence Plt. & Dynamic Policy Enforcer that ingests OSINT threat feeds, normalizes & scores indicators, stores intelligence in MongoDB, integrates with ELK SIEM, and automatically enforces firewall rules using Linux iptables for real-time threat mitigation.
+- **Stars**: 10 | **Last Updated**: 2026-06-14
+
+#### [Armaan29-09-2005/AI-OSINT-Security-Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)
+- **Category**: `autonomous-intel`
+- **Description**: AI OSINT Security Analyzer is an intelligent platform that leverages AI to perform autonomous investigations across various intelligence sources. With features like multi-source integration and real-time threat intelligence, it ensures comprehensive security assessments. 🛡️🔍
+- **Stars**: 12 | **Last Updated**: 2026-06-15
+
+#### [affaan-m/JARVIS](https://github.com/affaan-m/JARVIS)
+- **Category**: `autonomous-intel`
+- **Description**: JARVIS: a real-time agentic intelligence-gathering platform powered by autonomous web scraping & OSINT, streamed via Meta Ray-Ban smart glasses
+- **Stars**: 229 | **Last Updated**: 2026-06-15
+
+#### [flaviomilan/fackel](https://github.com/flaviomilan/fackel)
+- **Category**: `autonomous-intel`
+- **Description**: 🔥 OSINT (Open Source Intelligence) analysis tool that uses the power of an autonomous AI agent
+- **Stars**: 9 | **Last Updated**: 2026-06-09
+
