@@ -688,3 +688,9 @@
 [submodule "tools/vibe-coded-prototypes/DIGNITY_AI"]
 	path = tools/vibe-coded-prototypes/DIGNITY_AI
 	url = https://github.com/zorenhelal2-maker/DIGNITY_AI
+[submodule "tools/autonomous-triage/spydithreatintel"]
+	path = tools/autonomous-triage/spydithreatintel
+	url = https://github.com/spydisec/spydithreatintel
+[submodule "tools/autonomous-triage/euparliamentmonitor"]
+	path = tools/autonomous-triage/euparliamentmonitor
+	url = https://github.com/Hack23/euparliamentmonitor
