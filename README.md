@@ -489,3 +489,92 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Origin & Ownership**: Owned and maintained by **JambaAcademy** (User). Licensed under: *MIT License*.
 - **Stars**: 101 | **Last Updated**: 2026-06-11
 
+
+### Massive Domain Expansion
+
+*Expanding the ecosystem to maximize potential across highly specialized intelligence domains.*
+
+#### [ninoseki/mihari](https://github.com/ninoseki/mihari) - *threat-intel*
+- **Description**: A query aggregator for OSINT based threat hunting
+- **Stars**: 938
+
+#### [stanfrbd/cyberbro](https://github.com/stanfrbd/cyberbro) - *threat-intel*
+- **Description**: A simple application that extracts your IoCs from garbage input and checks their reputation using multiple CTI services.
+- **Stars**: 665
+
+#### [matamorphosis/Scrummage](https://github.com/matamorphosis/Scrummage) - *threat-intel*
+- **Description**: A Holistic OSINT and Threat Hunting Platform
+- **Stars**: 535
+
+#### [KatrielMoses/voidaccess](https://github.com/KatrielMoses/voidaccess) - *threat-intel*
+- **Description**: Self-hosted dark web OSINT platform. Automated threat intelligence from query to graph in 13 steps. Free alternative to Recorded Future, DarkOwl, and Flare.
+- **Stars**: 246
+
+#### [aryanguenthner/darkfox](https://github.com/aryanguenthner/darkfox) - *threat-intel*
+- **Description**: CTI Cyber Threat Intelligence OSINT Dark Web Deep Web Research. Ransomware gang information gathering tool.
+- **Stars**: 154
+
+#### [reconurge/flowsint](https://github.com/reconurge/flowsint) - *crypto-osint*
+- **Description**: A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.
+- **Stars**: 6712
+
+#### [kpcyrd/sn0int](https://github.com/kpcyrd/sn0int) - *crypto-osint*
+- **Description**: Semi-automatic OSINT framework and package manager
+- **Stars**: 2451
+
+#### [Ph055a/OSINT_Collection](https://github.com/Ph055a/OSINT_Collection) - *crypto-osint*
+- **Description**: Maintained collection of OSINT related resources. (All Free & Actionable)
+- **Stars**: 2372
+
+#### [kaifcodec/user-scanner](https://github.com/kaifcodec/user-scanner) - *crypto-osint*
+- **Description**: 🕵️‍♂️ (2-in-1) Email & Username OSINT suite for deep data extraction. Analyzes 240+ scan vectors (100+ email / 140+ username) for security research, investigations, and digital footprinting.
+- **Stars**: 2201
+
+#### [OffcierCia/On-Chain-Investigations-Tools-List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List) - *crypto-osint*
+- **Description**: Here we discuss how one can investigate crypto hacks and security incidents, and collect all the possible tools and manuals! PRs are welcome! If any tool is missing - please open PR!
+- **Stars**: 1900
+
+#### [Datalux/Osintgram](https://github.com/Datalux/Osintgram) - *geo-osint*
+- **Description**: Osintgram is a OSINT tool on Instagram. It offers an interactive shell to perform analysis on Instagram account of any users by its nickname
+- **Stars**: 13173
+
+#### [s0md3v/Photon](https://github.com/s0md3v/Photon) - *geo-osint*
+- **Description**: Incredibly fast crawler designed for OSINT.
+- **Stars**: 12951
+
+#### [instaloader/instaloader](https://github.com/instaloader/instaloader) - *geo-osint*
+- **Description**: Download pictures (or videos) along with their captions and other metadata from Instagram.
+- **Stars**: 12567
+
+#### [megadose/holehe](https://github.com/megadose/holehe) - *geo-osint*
+- **Description**: holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.
+- **Stars**: 11273
+
+#### [edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines) - *geo-osint*
+- **Description**: A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more
+- **Stars**: 10765
+
+#### [techenthusiast167/DeepWebHarvester](https://github.com/techenthusiast167/DeepWebHarvester) - *darkweb-osint*
+- **Description**: A stealthy Python dark web scraper using Tor. Crawl .onion sites anonymously, with retries, rate-limiting, and automatic Tor circuit renewal. Created for ethical OSINT with a hacker vibe. Handle pages, extract links, save data safely.
+- **Stars**: 77
+
+#### [chiasmod0n/chiasmodon](https://github.com/chiasmod0n/chiasmodon) - *leak-osint*
+- **Description**: Chiasmodon is an OSINT  tool designed to assist in the process of gathering information about a target domain. Its primary functionality revolves around searching for domain-related data, including domain emails, domain credentials, CIDRs , ASNs , and subdomains, the tool also allows users to search Google Play application ID.
+- **Stars**: 692
+
+#### [estebanpdl/osintgpt](https://github.com/estebanpdl/osintgpt) - *leak-osint*
+- **Description**: An open-source intelligence (OSINT) analysis tool leveraging GPT-powered embeddings and vector search engines for efficient data processing
+- **Stars**: 513
+
+#### [ni5arga/sightline](https://github.com/ni5arga/sightline) - *leak-osint*
+- **Description**: An OSINT search engine for mapping real-world infrastructure from OpenStreetMap data
+- **Stars**: 482
+
+#### [The-Osint-Toolbox/People-Search-OSINT](https://github.com/The-Osint-Toolbox/People-Search-OSINT) - *leak-osint*
+- **Description**: Search tools to help you find people, focused towards UK resources.
+- **Stars**: 149
+
+#### [NexvisionLab/Darkweb-search-engine](https://github.com/NexvisionLab/Darkweb-search-engine) - *leak-osint*
+- **Description**: Dark Web & Deep Web Search Engine. Data Crawler and indexer for Darkweb , OSINT Tools for the Dark Web
+- **Stars**: 135
+

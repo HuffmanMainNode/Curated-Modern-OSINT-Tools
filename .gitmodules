@@ -193,3 +193,66 @@
 [submodule "tools/general-osint/OSINT"]
 	path = tools/general-osint/OSINT
 	url = https://github.com/JambaAcademy/OSINT
+[submodule "tools/threat-intel/mihari"]
+	path = tools/threat-intel/mihari
+	url = https://github.com/ninoseki/mihari
+[submodule "tools/threat-intel/cyberbro"]
+	path = tools/threat-intel/cyberbro
+	url = https://github.com/stanfrbd/cyberbro
+[submodule "tools/threat-intel/Scrummage"]
+	path = tools/threat-intel/Scrummage
+	url = https://github.com/matamorphosis/Scrummage
+[submodule "tools/threat-intel/voidaccess"]
+	path = tools/threat-intel/voidaccess
+	url = https://github.com/KatrielMoses/voidaccess
+[submodule "tools/threat-intel/darkfox"]
+	path = tools/threat-intel/darkfox
+	url = https://github.com/aryanguenthner/darkfox
+[submodule "tools/crypto-osint/flowsint"]
+	path = tools/crypto-osint/flowsint
+	url = https://github.com/reconurge/flowsint
+[submodule "tools/crypto-osint/sn0int"]
+	path = tools/crypto-osint/sn0int
+	url = https://github.com/kpcyrd/sn0int
+[submodule "tools/crypto-osint/OSINT_Collection"]
+	path = tools/crypto-osint/OSINT_Collection
+	url = https://github.com/Ph055a/OSINT_Collection
+[submodule "tools/crypto-osint/user-scanner"]
+	path = tools/crypto-osint/user-scanner
+	url = https://github.com/kaifcodec/user-scanner
+[submodule "tools/crypto-osint/On-Chain-Investigations-Tools-List"]
+	path = tools/crypto-osint/On-Chain-Investigations-Tools-List
+	url = https://github.com/OffcierCia/On-Chain-Investigations-Tools-List
+[submodule "tools/geo-osint/Osintgram"]
+	path = tools/geo-osint/Osintgram
+	url = https://github.com/Datalux/Osintgram
+[submodule "tools/geo-osint/Photon"]
+	path = tools/geo-osint/Photon
+	url = https://github.com/s0md3v/Photon
+[submodule "tools/geo-osint/instaloader"]
+	path = tools/geo-osint/instaloader
+	url = https://github.com/instaloader/instaloader
+[submodule "tools/geo-osint/holehe"]
+	path = tools/geo-osint/holehe
+	url = https://github.com/megadose/holehe
+[submodule "tools/geo-osint/awesome-hacker-search-engines"]
+	path = tools/geo-osint/awesome-hacker-search-engines
+	url = https://github.com/edoardottt/awesome-hacker-search-engines
+[submodule "tools/darkweb-osint/DeepWebHarvester"]
+	path = tools/darkweb-osint/DeepWebHarvester
+	url = https://github.com/techenthusiast167/DeepWebHarvester
+[submodule "tools/leak-osint/chiasmodon"]
+	path = tools/leak-osint/chiasmodon
+	url = https://github.com/chiasmod0n/chiasmodon
+[submodule "tools/leak-osint/osintgpt"]
+	path = tools/leak-osint/osintgpt
+	url = https://github.com/estebanpdl/osintgpt
+[submodule "tools/leak-osint/sightline"]
+	path = tools/leak-osint/sightline
+	url = https://github.com/ni5arga/sightline
+[submodule "tools/leak-osint/People-Search-OSINT"]
+	path = tools/leak-osint/People-Search-OSINT
+	url = https://github.com/The-Osint-Toolbox/People-Search-OSINT
+[submodule "tools/leak-osint/Darkweb-search-engine"]
+	path = tools/leak-osint/Darkweb-search-engine
+	url = https://github.com/NexvisionLab/Darkweb-search-engine
