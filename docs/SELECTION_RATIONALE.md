@@ -98,3 +98,31 @@
 - **[misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor)**: Integrated into `iot-vehicle-osint`. Expands capabilities into targeted scraping or deep recon.
 - **[N0rz3/Zehef](https://github.com/N0rz3/Zehef)**: Integrated into `iot-vehicle-osint`. Expands capabilities into targeted scraping or deep recon.
 - **[mxrch/GitFive](https://github.com/mxrch/GitFive)**: Integrated into `iot-vehicle-osint`. Expands capabilities into targeted scraping or deep recon.
+
+## Government, Forensics & Financial Integration
+
+- **[Hack23/cia](https://github.com/Hack23/cia)**: Integrated into `gov-osint`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[Ringmast4r/FLOCK](https://github.com/Ringmast4r/FLOCK)**: Integrated into `gov-osint`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[Nate0634034090/bug-free-memory](https://github.com/Nate0634034090/bug-free-memory)**: Integrated into `gov-osint`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[sobri3195/Pegasus-OSINT-High](https://github.com/sobri3195/Pegasus-OSINT-High)**: Integrated into `gov-osint`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[Hack23/riksdagsmonitor](https://github.com/Hack23/riksdagsmonitor)**: Integrated into `gov-osint`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[atiilla/GeoIntel](https://github.com/atiilla/GeoIntel)**: Integrated into `multimedia-forensics`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[aydinnyunus/exifLooter](https://github.com/aydinnyunus/exifLooter)**: Integrated into `multimedia-forensics`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[The-Osint-Toolbox/Image-Research-OSINT](https://github.com/The-Osint-Toolbox/Image-Research-OSINT)**: Integrated into `multimedia-forensics`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[tnt-wolve/ch3r0](https://github.com/tnt-wolve/ch3r0)**: Integrated into `multimedia-forensics`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[hippiiee/Hippie-OSINT-Toolkit](https://github.com/hippiiee/Hippie-OSINT-Toolkit)**: Integrated into `multimedia-forensics`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[unicodeveloper/globalthreatmap](https://github.com/unicodeveloper/globalthreatmap)**: Integrated into `financial-tracking`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[josh0xA/darkdump](https://github.com/josh0xA/darkdump)**: Integrated into `financial-tracking`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[sc1341/InstagramOSINT](https://github.com/sc1341/InstagramOSINT)**: Integrated into `financial-tracking`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[Clats97/ClatScope](https://github.com/Clats97/ClatScope)**: Integrated into `financial-tracking`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[h9zdev/WireTapper](https://github.com/h9zdev/WireTapper)**: Integrated into `financial-tracking`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[mikeroyal/Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)**: Integrated into `metadata-analysis`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[danieldurnea/FBI-tools](https://github.com/danieldurnea/FBI-tools)**: Integrated into `metadata-analysis`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills)**: Integrated into `metadata-analysis`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[UCYBERS/Awesome-Blackhat-Tools](https://github.com/UCYBERS/Awesome-Blackhat-Tools)**: Integrated into `metadata-analysis`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[CScorza/OSINT-FORENSICS-MOBILE](https://github.com/CScorza/OSINT-FORENSICS-MOBILE)**: Integrated into `metadata-analysis`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[Findomain/Findomain](https://github.com/Findomain/Findomain)**: Integrated into `social-specific`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)**: Integrated into `social-specific`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[The-Osint-Toolbox/Telegram-OSINT](https://github.com/The-Osint-Toolbox/Telegram-OSINT)**: Integrated into `social-specific`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[prose-intelligence-ltd/Telepathy-Community](https://github.com/prose-intelligence-ltd/Telepathy-Community)**: Integrated into `social-specific`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+- **[0x6rss/matkap](https://github.com/0x6rss/matkap)**: Integrated into `social-specific`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.

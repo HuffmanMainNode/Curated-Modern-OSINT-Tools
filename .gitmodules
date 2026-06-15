@@ -445,3 +445,78 @@
 [submodule "tools/iot-vehicle-osint/GitFive"]
 	path = tools/iot-vehicle-osint/GitFive
 	url = https://github.com/mxrch/GitFive
+[submodule "tools/gov-osint/cia"]
+	path = tools/gov-osint/cia
+	url = https://github.com/Hack23/cia
+[submodule "tools/gov-osint/FLOCK"]
+	path = tools/gov-osint/FLOCK
+	url = https://github.com/Ringmast4r/FLOCK
+[submodule "tools/gov-osint/bug-free-memory"]
+	path = tools/gov-osint/bug-free-memory
+	url = https://github.com/Nate0634034090/bug-free-memory
+[submodule "tools/gov-osint/Pegasus-OSINT-High"]
+	path = tools/gov-osint/Pegasus-OSINT-High
+	url = https://github.com/sobri3195/Pegasus-OSINT-High
+[submodule "tools/gov-osint/riksdagsmonitor"]
+	path = tools/gov-osint/riksdagsmonitor
+	url = https://github.com/Hack23/riksdagsmonitor
+[submodule "tools/multimedia-forensics/GeoIntel"]
+	path = tools/multimedia-forensics/GeoIntel
+	url = https://github.com/atiilla/GeoIntel
+[submodule "tools/multimedia-forensics/exifLooter"]
+	path = tools/multimedia-forensics/exifLooter
+	url = https://github.com/aydinnyunus/exifLooter
+[submodule "tools/multimedia-forensics/Image-Research-OSINT"]
+	path = tools/multimedia-forensics/Image-Research-OSINT
+	url = https://github.com/The-Osint-Toolbox/Image-Research-OSINT
+[submodule "tools/multimedia-forensics/ch3r0"]
+	path = tools/multimedia-forensics/ch3r0
+	url = https://github.com/tnt-wolve/ch3r0
+[submodule "tools/multimedia-forensics/Hippie-OSINT-Toolkit"]
+	path = tools/multimedia-forensics/Hippie-OSINT-Toolkit
+	url = https://github.com/hippiiee/Hippie-OSINT-Toolkit
+[submodule "tools/financial-tracking/globalthreatmap"]
+	path = tools/financial-tracking/globalthreatmap
+	url = https://github.com/unicodeveloper/globalthreatmap
+[submodule "tools/financial-tracking/darkdump"]
+	path = tools/financial-tracking/darkdump
+	url = https://github.com/josh0xA/darkdump
+[submodule "tools/financial-tracking/InstagramOSINT"]
+	path = tools/financial-tracking/InstagramOSINT
+	url = https://github.com/sc1341/InstagramOSINT
+[submodule "tools/financial-tracking/ClatScope"]
+	path = tools/financial-tracking/ClatScope
+	url = https://github.com/Clats97/ClatScope
+[submodule "tools/financial-tracking/WireTapper"]
+	path = tools/financial-tracking/WireTapper
+	url = https://github.com/h9zdev/WireTapper
+[submodule "tools/metadata-analysis/Digital-Forensics-Guide"]
+	path = tools/metadata-analysis/Digital-Forensics-Guide
+	url = https://github.com/mikeroyal/Digital-Forensics-Guide
+[submodule "tools/metadata-analysis/FBI-tools"]
+	path = tools/metadata-analysis/FBI-tools
+	url = https://github.com/danieldurnea/FBI-tools
+[submodule "tools/metadata-analysis/ctf-skills"]
+	path = tools/metadata-analysis/ctf-skills
+	url = https://github.com/ljagiello/ctf-skills
+[submodule "tools/metadata-analysis/Awesome-Blackhat-Tools"]
+	path = tools/metadata-analysis/Awesome-Blackhat-Tools
+	url = https://github.com/UCYBERS/Awesome-Blackhat-Tools
+[submodule "tools/metadata-analysis/OSINT-FORENSICS-MOBILE"]
+	path = tools/metadata-analysis/OSINT-FORENSICS-MOBILE
+	url = https://github.com/CScorza/OSINT-FORENSICS-MOBILE
+[submodule "tools/social-specific/Findomain"]
+	path = tools/social-specific/Findomain
+	url = https://github.com/Findomain/Findomain
+[submodule "tools/social-specific/Awesome-Telegram-OSINT"]
+	path = tools/social-specific/Awesome-Telegram-OSINT
+	url = https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT
+[submodule "tools/social-specific/Telegram-OSINT"]
+	path = tools/social-specific/Telegram-OSINT
+	url = https://github.com/The-Osint-Toolbox/Telegram-OSINT
+[submodule "tools/social-specific/Telepathy-Community"]
+	path = tools/social-specific/Telepathy-Community
+	url = https://github.com/prose-intelligence-ltd/Telepathy-Community
+[submodule "tools/social-specific/matkap"]
+	path = tools/social-specific/matkap
+	url = https://github.com/0x6rss/matkap
