@@ -578,3 +578,44 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: Dark Web & Deep Web Search Engine. Data Crawler and indexer for Darkweb , OSINT Tools for the Dark Web
 - **Stars**: 135
 
+
+### 🏦 The AI Agents Vault
+
+*A deep-dive collection of autonomous AI agents, LLM-powered crawlers, and experimental GPT wrappers specifically tailored for intelligence gathering. This is the bleeding edge of AI OSINT.*
+
+#### [ydavidcm9-wq/vigil](https://github.com/ydavidcm9-wq/vigil)
+- **Description**: Deliver comprehensive AI-driven security operations with vulnerability scanning, incident response, compliance tracking, and autonomous agents in one platform.
+- **Owner**: ydavidcm9-wq | **Stars**: 0
+
+#### [subsaharan-metallic807/hexstrike_augment](https://github.com/subsaharan-metallic807/hexstrike_augment)
+- **Description**: Automate security testing and vulnerability research with Ollama, MCP tools, dual RAG knowledge bases, and autonomous multi-agent orchestration.
+- **Owner**: subsaharan-metallic807 | **Stars**: 0
+
+#### [Doble-2/osint-d2](https://github.com/Doble-2/osint-d2)
+- **Description**: Agentic OSINT toolkit. Autonomous identity triangulation, 6-dimension cognitive profiling, breach analysis. CLI-first. 30+ platforms. 5 languages.
+- **Owner**: Doble-2 | **Stars**: 166
+
+#### [GeorgianaAI/vanguard-agent](https://github.com/GeorgianaAI/vanguard-agent)
+- **Description**: 🛰️Vanguard Agent is an autonomous OSINT multi-agent orchestrator for complex, governed security workflows. Built with Next.js 16 and LangGraph, it implements a Supervisor–Scout–Auditor pipeline with HITL-gated ReAct loops, Redis-backed checkpointing, MCP-integrated tooling, and a NIST-aligned audit ledger for traceable, approval-gated execution.
+- **Owner**: GeorgianaAI | **Stars**: 0
+
+#### [petterobam/intelhub](https://github.com/petterobam/intelhub)
+- **Description**: 把全网信息变成可行动的情报 — 开源智能情报平台
+- **Owner**: petterobam | **Stars**: 1
+
+#### [armmammothermography417/ContextOS](https://github.com/armmammothermography417/ContextOS)
+- **Description**: Provide a unified context intelligence layer for AI agents with seamless integration and full capability in a single Python package.
+- **Owner**: armmammothermography417 | **Stars**: 1
+
+#### [maged23ww/Cyber-Lobster-Soul](https://github.com/maged23ww/Cyber-Lobster-Soul)
+- **Description**: Inject a sharp, unfiltered, and critical personality into your AI agents for more human-like, blunt, and engaging chatbot interactions.
+- **Owner**: maged23ww | **Stars**: 0
+
+#### [Judaca73/ghost-os](https://github.com/Judaca73/ghost-os)
+- **Description**: Enable AI agents to fully control and interact with macOS apps, automating tasks like emailing, clicking, and form filling seamlessly.
+- **Owner**: Judaca73 | **Stars**: 0
+
+#### [Aurionlol/the-trading-floor-v2](https://github.com/Aurionlol/the-trading-floor-v2)
+- **Description**: 💼 Analyze financial instruments with AI agents collaborating to provide consensus-based trading insights, simulating a hedge fund's decision-making process.
+- **Owner**: Aurionlol | **Stars**: 1
+

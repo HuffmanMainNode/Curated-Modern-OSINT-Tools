@@ -256,3 +256,30 @@
 [submodule "tools/leak-osint/Darkweb-search-engine"]
 	path = tools/leak-osint/Darkweb-search-engine
 	url = https://github.com/NexvisionLab/Darkweb-search-engine
+[submodule "tools/ai-vault/vigil"]
+	path = tools/ai-vault/vigil
+	url = https://github.com/ydavidcm9-wq/vigil
+[submodule "tools/ai-vault/hexstrike_augment"]
+	path = tools/ai-vault/hexstrike_augment
+	url = https://github.com/subsaharan-metallic807/hexstrike_augment
+[submodule "tools/ai-vault/osint-d2"]
+	path = tools/ai-vault/osint-d2
+	url = https://github.com/Doble-2/osint-d2
+[submodule "tools/ai-vault/vanguard-agent"]
+	path = tools/ai-vault/vanguard-agent
+	url = https://github.com/GeorgianaAI/vanguard-agent
+[submodule "tools/ai-vault/intelhub"]
+	path = tools/ai-vault/intelhub
+	url = https://github.com/petterobam/intelhub
+[submodule "tools/ai-vault/ContextOS"]
+	path = tools/ai-vault/ContextOS
+	url = https://github.com/armmammothermography417/ContextOS
+[submodule "tools/ai-vault/Cyber-Lobster-Soul"]
+	path = tools/ai-vault/Cyber-Lobster-Soul
+	url = https://github.com/maged23ww/Cyber-Lobster-Soul
+[submodule "tools/ai-vault/ghost-os"]
+	path = tools/ai-vault/ghost-os
+	url = https://github.com/Judaca73/ghost-os
+[submodule "tools/ai-vault/the-trading-floor-v2"]
+	path = tools/ai-vault/the-trading-floor-v2
+	url = https://github.com/Aurionlol/the-trading-floor-v2
