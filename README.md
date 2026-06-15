@@ -1,5 +1,7 @@
 # The Ultimate Open-Source Intelligence (OSINT) Ecosystem
 
+![Submodules Tracked](https://img.shields.io/badge/Submodules_Tracked-198-blue)
+
 ## Our Mission
 We are building a highly organized, zero-trust validated, and continuously expanding ecosystem of modern OSINT tools. Our goal is to aggregate everything from widely-adopted frameworks to cutting-edge AI agents and secure communication platforms, creating a centralized hub for researchers, analysts, and developers.
 
