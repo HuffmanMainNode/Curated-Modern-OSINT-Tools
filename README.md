@@ -619,3 +619,104 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: 💼 Analyze financial instruments with AI agents collaborating to provide consensus-based trading insights, simulating a hedge fund's decision-making process.
 - **Owner**: Aurionlol | **Stars**: 1
 
+
+### 📚 Instructionals, Blueprints & Active Campaigns
+
+*A massive expansion encompassing educational blueprints, methodology guides, and active open-source intelligence campaigns. This section is dedicated to the 'how-to' and real-world investigations of modern OSINT.*
+
+#### [Lifka/hacking-resources](https://github.com/Lifka/hacking-resources) - *Instructionals Blueprints*
+- **Description**: Hacking resources and cheat sheets. References, tools, scripts, tutorials, and other resources that help offensive and defensive security professionals.
+- **Owner**: Lifka | **Stars**: 2497 | **Last Updated**: 2026-06-13
+
+#### [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - *Instructionals Blueprints*
+- **Description**: OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
+- **Owner**: Jieyab89 | **Stars**: 1973 | **Last Updated**: 2026-06-15
+
+#### [cipher387/OSINT-Github-profiles](https://github.com/cipher387/OSINT-Github-profiles) - *Instructionals Blueprints*
+- **Description**: A list of Github users who distribute tools and tutorials on OSINT (as well as hacking, pentest, and forensics)
+- **Owner**: cipher387 | **Stars**: 114 | **Last Updated**: 2026-06-05
+
+#### [The-Osint-Toolbox/OSINT-Communities-Practitioners](https://github.com/The-Osint-Toolbox/OSINT-Communities-Practitioners) - *Instructionals Blueprints*
+- **Description**: Search this list of OSINT Practitioners and learn about OSINT, it includes numerous, blogs and tutorials. 
+- **Owner**: The-Osint-Toolbox | **Stars**: 104 | **Last Updated**: 2026-05-15
+
+#### [0xSojalSec/read-dark-web](https://github.com/0xSojalSec/read-dark-web) - *Instructionals Blueprints*
+- **Description**: A collection of awesome software, OSINT Tools, libraries, learning tutorials, documents, books & technical resources and cool stuff about dark web.
+- **Owner**: 0xSojalSec | **Stars**: 99 | **Last Updated**: 2026-06-14
+
+#### [paulveillard/cybersecurity-osint](https://github.com/paulveillard/cybersecurity-osint) - *Instructionals Blueprints*
+- **Description**: An ongoing collection of awesome tools and frameworks, best security software practices, libraries, learning tutorials, frameworks, academic and practical resources about Open-source intelligence (OSINT) in cybersecurity.
+- **Owner**: paulveillard | **Stars**: 36 | **Last Updated**: 2026-04-01
+
+#### [simplerhacking/Evilginx-Course](https://github.com/simplerhacking/Evilginx-Course) - *Instructionals Blueprints*
+- **Description**: Repository for uploading all extra resources for students enrolled in Simpler Hacking's Evilginx3 Pro Course
+- **Owner**: simplerhacking | **Stars**: 33 | **Last Updated**: 2026-05-27
+
+#### [anthophilee/SpiderFoot-](https://github.com/anthophilee/SpiderFoot-) - *Instructionals Blueprints*
+- **Description**: ادات جلب معلوماتUSES SpiderFoot can be used offensively (e.g. in a red team exercise or penetration test) for reconnaissance of your target or defensively to gather information about what you or your organisation might have exposed over the Internet.  You can target the following entities in a SpiderFoot scan:  IP address Domain/sub-domain name Hostname Network subnet (CIDR) ASN E-mail address Phone number Username Person's name Bitcoin address SpiderFoot's 200+ modules feed each other in a publisher/subscriber model to ensure maximum data extraction to do things like:  Host/sub-domain/TLD enumeration/extraction Email address, phone number and human name extraction Bitcoin and Ethereum address extraction Check for susceptibility to sub-domain hijacking DNS zone transfers Threat intelligence and Blacklist queries API integration with SHODAN, HaveIBeenPwned, GreyNoise, AlienVault, SecurityTrails, etc. Social media account enumeration S3/Azure/Digitalocean bucket enumeration/scraping IP geo-location Web scraping, web content analysis Image, document and binary file meta data analysis Dark web searches Port scanning and banner grabbing Data breach searches So much more... INSTALLING & RUNNING To install and run SpiderFoot, you need at least Python 3.6 and a number of Python libraries which you can install with pip. We recommend you install a packaged release since master will often have bleeding edge features and modules that aren't fully tested.  Stable build (packaged release): $ wget https://github.com/smicallef/spiderfoot/archive/v3.3.tar.gz $ tar zxvf v3.3.tar.gz $ cd spiderfoot ~/spiderfoot$ pip3 install -r requirements.txt ~/spiderfoot$ python3 ./sf.py -l 127.0.0.1:5001 Development build (cloning git master branch): $ git clone https://github.com/smicallef/spiderfoot.git $ cd spiderfoot $ pip3 install -r requirements.txt ~/spiderfoot$ python3 ./sf.py -l 127.0.0.1:5001 Check out the documentation and our asciinema videos for more tutorials.  COMMUNITY Whether you're a contributor, user or just curious about SpiderFoot and OSINT in general, we'd love to have you join our community! SpiderFoot now has a Discord server for chat, and a Discourse server to serve as a more permanent knowledge base.
+- **Owner**: anthophilee | **Stars**: 30 | **Last Updated**: 2026-06-13
+
+#### [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - *Active Campaigns*
+- **Description**: Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.
+- **Owner**: WebBreacher | **Stars**: 2576 | **Last Updated**: 2026-06-15
+
+#### [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - *Active Campaigns*
+- **Description**: OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
+- **Owner**: Jieyab89 | **Stars**: 1973 | **Last Updated**: 2026-06-15
+
+#### [Cgboal/SonarSearch](https://github.com/Cgboal/SonarSearch) - *Active Campaigns*
+- **Description**: A rapid API for the Project Sonar dataset
+- **Owner**: Cgboal | **Stars**: 656 | **Last Updated**: 2026-06-05
+
+#### [sa7mon/venmo-data](https://github.com/sa7mon/venmo-data) - *Active Campaigns*
+- **Description**: Venmo trasaction dataset for data analysis/visualization/anything
+- **Owner**: sa7mon | **Stars**: 208 | **Last Updated**: 2026-04-08
+
+#### [goldenowlosint/Islamic-Republic-Influence-Networks](https://github.com/goldenowlosint/Islamic-Republic-Influence-Networks) - *Active Campaigns*
+- **Description**: 📊 OSINT dataset of 10,700+ Twitter/X accounts linked to Islamic Republic influence networks. Metadata-only for CIB research & network analysis.
+- **Owner**: goldenowlosint | **Stars**: 76 | **Last Updated**: 2026-06-11
+
+#### [soxoj/bellingcat-hackathon-watchcats](https://github.com/soxoj/bellingcat-hackathon-watchcats) - *Active Campaigns*
+- **Description**: 📊 Adana - 1-click analytical dashboard for OSINT researchers
+- **Owner**: soxoj | **Stars**: 45 | **Last Updated**: 2026-06-15
+
+#### [3xp0rt/Naminter](https://github.com/3xp0rt/Naminter) - *Active Campaigns*
+- **Description**: A Python package and command-line interface (CLI) tool for asynchronous OSINT username enumeration using the WhatsMyName dataset
+- **Owner**: 3xp0rt | **Stars**: 44 | **Last Updated**: 2026-05-31
+
+#### [SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit](https://github.com/SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit) - *Active Campaigns*
+- **Description**: Phoneint-OSINT-Toolkit — a privacy-first phone-number OSINT toolkit (CLI + minimal GUI). Parses and normalizes numbers (E.164), enriches with deterministic metadata, runs optional async adapters (DuckDuckGo, Google, public datasets), computes explainable risk scores and owner intelligence, and exports JSON/CSV/PDF reports.
+- **Owner**: SagarBiswas-MultiHAT | **Stars**: 24 | **Last Updated**: 2026-06-09
+
+#### [OpenCTI-Platform/opencti](https://github.com/OpenCTI-Platform/opencti) - *Hot Topics*
+- **Description**: Open Cyber Threat Intelligence Platform
+- **Owner**: OpenCTI-Platform | **Stars**: 9552 | **Last Updated**: 2026-06-15
+
+#### [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - *Hot Topics*
+- **Description**: IntelOwl: manage your Threat Intelligence at scale
+- **Owner**: intelowlproject | **Stars**: 4598 | **Last Updated**: 2026-06-14
+
+#### [ivre/ivre](https://github.com/ivre/ivre) - *Hot Topics*
+- **Description**: Network recon framework. Build your own, self-hosted and fully-controlled alternatives to Shodan / ZoomEye / Censys and GreyNoise, run your Passive DNS service, build your taylor-made EASM tool, collect and analyse network intelligence from your sensors, and much more! Uses Nmap, Masscan, Zeek, p0f, ProjectDiscovery tools, etc.
+- **Owner**: ivre | **Stars**: 4045 | **Last Updated**: 2026-06-15
+
+#### [bhavsec/reconspider](https://github.com/bhavsec/reconspider) - *Hot Topics*
+- **Description**: 🔎 Most Advanced Open Source Intelligence (OSINT) Framework for scanning IP Address, Emails, Websites, Organizations.
+- **Owner**: bhavsec | **Stars**: 2709 | **Last Updated**: 2026-06-15
+
+#### [ARPSyndicate/awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence) - *Hot Topics*
+- **Description**: A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
+- **Owner**: ARPSyndicate | **Stars**: 2367 | **Last Updated**: 2026-06-15
+
+#### [evilsocket/xray](https://github.com/evilsocket/xray) - *Hot Topics*
+- **Description**: XRay is a tool for recon, mapping and OSINT gathering from public networks.
+- **Owner**: evilsocket | **Stars**: 2315 | **Last Updated**: 2026-06-14
+
+#### [vaguileradiaz/tinfoleak](https://github.com/vaguileradiaz/tinfoleak) - *Hot Topics*
+- **Description**: The most complete open-source tool for Twitter intelligence analysis
+- **Owner**: vaguileradiaz | **Stars**: 1976 | **Last Updated**: 2026-06-14
+
+#### [utkusen/urlhunter](https://github.com/utkusen/urlhunter) - *Hot Topics*
+- **Description**: a recon tool that allows searching on URLs that are exposed via shortener services
+- **Owner**: utkusen | **Stars**: 1682 | **Last Updated**: 2026-06-14
+

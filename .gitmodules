@@ -283,3 +283,75 @@
 [submodule "tools/ai-vault/the-trading-floor-v2"]
 	path = tools/ai-vault/the-trading-floor-v2
 	url = https://github.com/Aurionlol/the-trading-floor-v2
+[submodule "tools/instructionals-blueprints/hacking-resources"]
+	path = tools/instructionals-blueprints/hacking-resources
+	url = https://github.com/Lifka/hacking-resources
+[submodule "tools/instructionals-blueprints/OSINT-Cheat-sheet"]
+	path = tools/instructionals-blueprints/OSINT-Cheat-sheet
+	url = https://github.com/Jieyab89/OSINT-Cheat-sheet
+[submodule "tools/instructionals-blueprints/OSINT-Github-profiles"]
+	path = tools/instructionals-blueprints/OSINT-Github-profiles
+	url = https://github.com/cipher387/OSINT-Github-profiles
+[submodule "tools/instructionals-blueprints/OSINT-Communities-Practitioners"]
+	path = tools/instructionals-blueprints/OSINT-Communities-Practitioners
+	url = https://github.com/The-Osint-Toolbox/OSINT-Communities-Practitioners
+[submodule "tools/instructionals-blueprints/read-dark-web"]
+	path = tools/instructionals-blueprints/read-dark-web
+	url = https://github.com/0xSojalSec/read-dark-web
+[submodule "tools/instructionals-blueprints/cybersecurity-osint"]
+	path = tools/instructionals-blueprints/cybersecurity-osint
+	url = https://github.com/paulveillard/cybersecurity-osint
+[submodule "tools/instructionals-blueprints/Evilginx-Course"]
+	path = tools/instructionals-blueprints/Evilginx-Course
+	url = https://github.com/simplerhacking/Evilginx-Course
+[submodule "tools/instructionals-blueprints/SpiderFoot-"]
+	path = tools/instructionals-blueprints/SpiderFoot-
+	url = https://github.com/anthophilee/SpiderFoot-
+[submodule "tools/active-campaigns/WhatsMyName"]
+	path = tools/active-campaigns/WhatsMyName
+	url = https://github.com/WebBreacher/WhatsMyName
+[submodule "tools/active-campaigns/OSINT-Cheat-sheet"]
+	path = tools/active-campaigns/OSINT-Cheat-sheet
+	url = https://github.com/Jieyab89/OSINT-Cheat-sheet
+[submodule "tools/active-campaigns/SonarSearch"]
+	path = tools/active-campaigns/SonarSearch
+	url = https://github.com/Cgboal/SonarSearch
+[submodule "tools/active-campaigns/venmo-data"]
+	path = tools/active-campaigns/venmo-data
+	url = https://github.com/sa7mon/venmo-data
+[submodule "tools/active-campaigns/Islamic-Republic-Influence-Networks"]
+	path = tools/active-campaigns/Islamic-Republic-Influence-Networks
+	url = https://github.com/goldenowlosint/Islamic-Republic-Influence-Networks
+[submodule "tools/active-campaigns/bellingcat-hackathon-watchcats"]
+	path = tools/active-campaigns/bellingcat-hackathon-watchcats
+	url = https://github.com/soxoj/bellingcat-hackathon-watchcats
+[submodule "tools/active-campaigns/Naminter"]
+	path = tools/active-campaigns/Naminter
+	url = https://github.com/3xp0rt/Naminter
+[submodule "tools/active-campaigns/Phoneint-OSINT-Toolkit"]
+	path = tools/active-campaigns/Phoneint-OSINT-Toolkit
+	url = https://github.com/SagarBiswas-MultiHAT/Phoneint-OSINT-Toolkit
+[submodule "tools/hot-topics/opencti"]
+	path = tools/hot-topics/opencti
+	url = https://github.com/OpenCTI-Platform/opencti
+[submodule "tools/hot-topics/IntelOwl"]
+	path = tools/hot-topics/IntelOwl
+	url = https://github.com/intelowlproject/IntelOwl
+[submodule "tools/hot-topics/ivre"]
+	path = tools/hot-topics/ivre
+	url = https://github.com/ivre/ivre
+[submodule "tools/hot-topics/reconspider"]
+	path = tools/hot-topics/reconspider
+	url = https://github.com/bhavsec/reconspider
+[submodule "tools/hot-topics/awesome-intelligence"]
+	path = tools/hot-topics/awesome-intelligence
+	url = https://github.com/ARPSyndicate/awesome-intelligence
+[submodule "tools/hot-topics/xray"]
+	path = tools/hot-topics/xray
+	url = https://github.com/evilsocket/xray
+[submodule "tools/hot-topics/tinfoleak"]
+	path = tools/hot-topics/tinfoleak
+	url = https://github.com/vaguileradiaz/tinfoleak
+[submodule "tools/hot-topics/urlhunter"]
+	path = tools/hot-topics/urlhunter
+	url = https://github.com/utkusen/urlhunter
