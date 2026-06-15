@@ -673,3 +673,6 @@
 [submodule "tools/vibe-coded-systems/osintax-lofi1"]
 	path = tools/vibe-coded-systems/osintax-lofi1
 	url = https://github.com/lofai12/osintax-lofi1
+[submodule "tools/adversarial-hacker-tools/wordpress-plugins"]
+	path = tools/adversarial-hacker-tools/wordpress-plugins
+	url = https://github.com/rix4uni/wordpress-plugins
