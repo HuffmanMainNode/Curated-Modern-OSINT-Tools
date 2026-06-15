@@ -213,3 +213,66 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Last Updated**: 2026-06-15
 - **Validation Status**: Passed
 
+
+### AI-Powered OSINT Agents
+
+#### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
+- **Description**: 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
+- **Stars**: 15775
+- **Last Updated**: 2026-06-15
+- **Validation Status**: Passed
+
+#### [calesthio/Crucix](https://github.com/calesthio/Crucix)
+- **Description**: Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
+- **Stars**: 10246
+- **Last Updated**: 2026-06-15
+- **Validation Status**: Passed
+
+#### [BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)
+- **Description**: Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now.
+- **Stars**: 9243
+- **Last Updated**: 2026-06-15
+- **Validation Status**: Passed
+
+#### [samugit83/redamon](https://github.com/samugit83/redamon)
+- **Description**: An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention.
+- **Stars**: 1988
+- **Last Updated**: 2026-06-15
+- **Validation Status**: Passed
+
+#### [ythx-101/x-tweet-fetcher](https://github.com/ythx-101/x-tweet-fetcher)
+- **Description**: Fetch X/Twitter tweets, replies, timelines, and articles without login or API keys — field tool for AI agents.
+- **Stars**: 875
+- **Last Updated**: 2026-06-15
+- **Validation Status**: Passed
+
+#### [0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai)
+- **Description**: Offensive-security MCP server with 205 wrapped tools, 17 specialist agents, and 60 SPA-aware probes for OWASP Top 10. CLI + MCP, BYO LLM. No API key needed on MCP path.
+- **Stars**: 827
+- **Last Updated**: 2026-06-15
+- **Validation Status**: Passed
+
+#### [OpenOSINT/OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)
+- **Description**: AI-powered OSINT agent with interactive REPL, MCP server, and CLI. 16 tools. Works with Claude, GPT-4, or local models. For authorized security research only.
+- **Stars**: 655
+- **Last Updated**: 2026-06-15
+- **Validation Status**: Passed
+
+#### [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw)
+- **Description**: Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
+- **Stars**: 207
+- **Last Updated**: 2026-06-15
+- **Validation Status**: Passed
+
+#### [0xNyk/xint](https://github.com/0xNyk/xint)
+- **Description**: X Intelligence CLI — search, monitor, analyze, and engage on X/Twitter. TypeScript + Bun. AI agent skill. Using xAPI & xAI api keys
+- **Stars**: 154
+- **Last Updated**: 2026-06-14
+- **Validation Status**: Passed
+
+#### [7WaySecurity/ai_osint](https://github.com/7WaySecurity/ai_osint)
+- **Description**: 🤖 Curated AI OSINT resources — Google dorks, Shodan queries, GitHub dorks, and techniques to discover exposed LLM endpoints, leaked AI API keys, misconfigured vector databases, and unprotected AI agents
+- **Stars**: 91
+- **Last Updated**: 2026-06-14
+- **Validation Status**: Passed
+

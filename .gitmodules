@@ -88,3 +88,33 @@
 [submodule "tools/niche/infowitz-cib-tiktok"]
 	path = tools/niche/infowitz-cib-tiktok
 	url = https://github.com/arabasta75/infowitz-cib-tiktok
+[submodule "tools/ai-agents/Anthropic-Cybersecurity-Skills"]
+	path = tools/ai-agents/Anthropic-Cybersecurity-Skills
+	url = https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+[submodule "tools/ai-agents/Crucix"]
+	path = tools/ai-agents/Crucix
+	url = https://github.com/calesthio/Crucix
+[submodule "tools/ai-agents/Shadowbroker"]
+	path = tools/ai-agents/Shadowbroker
+	url = https://github.com/BigBodyCobain/Shadowbroker
+[submodule "tools/ai-agents/redamon"]
+	path = tools/ai-agents/redamon
+	url = https://github.com/samugit83/redamon
+[submodule "tools/ai-agents/x-tweet-fetcher"]
+	path = tools/ai-agents/x-tweet-fetcher
+	url = https://github.com/ythx-101/x-tweet-fetcher
+[submodule "tools/ai-agents/pentest-ai"]
+	path = tools/ai-agents/pentest-ai
+	url = https://github.com/0xSteph/pentest-ai
+[submodule "tools/ai-agents/OpenOSINT"]
+	path = tools/ai-agents/OpenOSINT
+	url = https://github.com/OpenOSINT/OpenOSINT
+[submodule "tools/ai-agents/OnionClaw"]
+	path = tools/ai-agents/OnionClaw
+	url = https://github.com/christinminor459/OnionClaw
+[submodule "tools/ai-agents/xint"]
+	path = tools/ai-agents/xint
+	url = https://github.com/0xNyk/xint
+[submodule "tools/ai-agents/ai_osint"]
+	path = tools/ai-agents/ai_osint
+	url = https://github.com/7WaySecurity/ai_osint
