@@ -68,3 +68,14 @@
 - **[Armaan29-09-2005/AI-OSINT-Security-Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)**: Integrated into `autonomous-intel`. Validated maintenance (2026-06-15). Addresses complex investigative challenges beyond basic reconnaissance.
 - **[affaan-m/JARVIS](https://github.com/affaan-m/JARVIS)**: Integrated into `autonomous-intel`. Validated maintenance (2026-06-15). Addresses complex investigative challenges beyond basic reconnaissance.
 - **[flaviomilan/fackel](https://github.com/flaviomilan/fackel)**: Integrated into `autonomous-intel`. Validated maintenance (2026-06-09). Addresses complex investigative challenges beyond basic reconnaissance.
+
+## Counter Intel & Cybersecurity Integration
+
+- **[ianlucas/cs2-lib](https://github.com/ianlucas/cs2-lib)**: Integrated into `counter-intel`. Addresses defensive OSINT and open-source cybersecurity practices.
+- **[vikiboss/major-winner](https://github.com/vikiboss/major-winner)**: Integrated into `counter-intel`. Addresses defensive OSINT and open-source cybersecurity practices.
+- **[MasiaVittorio/counterspell](https://github.com/MasiaVittorio/counterspell)**: Integrated into `counter-intel`. Addresses defensive OSINT and open-source cybersecurity practices.
+- **[LukeX404/cs2-prices-tracker](https://github.com/LukeX404/cs2-prices-tracker)**: Integrated into `counter-intel`. Addresses defensive OSINT and open-source cybersecurity practices.
+- **[GACWR/OpenUBA](https://github.com/GACWR/OpenUBA)**: Integrated into `open-source-cybersecurity`. Addresses defensive OSINT and open-source cybersecurity practices.
+- **[dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit)**: Integrated into `open-source-cybersecurity`. Addresses defensive OSINT and open-source cybersecurity practices.
+- **[cybnity/foundation](https://github.com/cybnity/foundation)**: Integrated into `open-source-cybersecurity`. Addresses defensive OSINT and open-source cybersecurity practices.
+- **[crowdsecurity/cs-wordpress-bouncer](https://github.com/crowdsecurity/cs-wordpress-bouncer)**: Integrated into `open-source-cybersecurity`. Addresses defensive OSINT and open-source cybersecurity practices.

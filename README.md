@@ -755,3 +755,48 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: 🔥 OSINT (Open Source Intelligence) analysis tool that uses the power of an autonomous AI agent
 - **Stars**: 9 | **Last Updated**: 2026-06-09
 
+
+### 🛡️ Counter Intelligence & Open Source Cybersecurity
+
+*Tools dedicated to defensive operations, identifying espionage, and broad open-source cybersecurity frameworks.*
+
+#### [ianlucas/cs2-lib](https://github.com/ianlucas/cs2-lib)
+- **Category**: `counter-intel`
+- **Description**: A TypeScript library for reading and manipulating Counter-Strike 2 game data
+- **Stars**: 35 | **Last Updated**: 2026-06-15
+
+#### [vikiboss/major-winner](https://github.com/vikiboss/major-winner)
+- **Category**: `counter-intel`
+- **Description**: 🏆 Major Winner:  Counter Strike 2 的主播 Major 竞猜结果 & 排行一览
+- **Stars**: 14 | **Last Updated**: 2026-06-15
+
+#### [MasiaVittorio/counterspell](https://github.com/MasiaVittorio/counterspell)
+- **Category**: `counter-intel`
+- **Description**: New and improved version of CounterSpell
+- **Stars**: 7 | **Last Updated**: 2026-06-15
+
+#### [LukeX404/cs2-prices-tracker](https://github.com/LukeX404/cs2-prices-tracker)
+- **Category**: `counter-intel`
+- **Description**: 💶・Counter Strike 2 Prices Tracker
+- **Stars**: 14 | **Last Updated**: 2026-06-15
+
+#### [GACWR/OpenUBA](https://github.com/GACWR/OpenUBA)
+- **Category**: `open-source-cybersecurity`
+- **Description**: A robust, and flexible open source User & Entity Behavior Analytics (UEBA) framework used for Security Analytics. Developed with luv by Data Scientists & Security Analysts from the Cyber Security Industry. [BETA]
+- **Stars**: 490 | **Last Updated**: 2026-06-15
+
+#### [dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit)
+- **Category**: `open-source-cybersecurity`
+- **Description**: Open source platform for cyber security analysts with many features for threat intelligence and detection engineering.
+- **Stars**: 873 | **Last Updated**: 2026-06-15
+
+#### [cybnity/foundation](https://github.com/cybnity/foundation)
+- **Category**: `open-source-cybersecurity`
+- **Description**: Open source cyber-serenity platform that help the security teams designing and managing companies' ISMS, and which allow them to create resilient digital systems with efficient responses against to cyber-threats.
+- **Stars**: 19 | **Last Updated**: 2026-04-24
+
+#### [crowdsecurity/cs-wordpress-bouncer](https://github.com/crowdsecurity/cs-wordpress-bouncer)
+- **Category**: `open-source-cybersecurity`
+- **Description**: CrowdSec is an open-source cyber security tool. This plugin blocks detected attackers or display them a captcha.
+- **Stars**: 43 | **Last Updated**: 2026-01-09
+

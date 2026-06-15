@@ -373,3 +373,27 @@
 [submodule "tools/autonomous-intel/fackel"]
 	path = tools/autonomous-intel/fackel
 	url = https://github.com/flaviomilan/fackel
+[submodule "tools/counter-intel/cs2-lib"]
+	path = tools/counter-intel/cs2-lib
+	url = https://github.com/ianlucas/cs2-lib
+[submodule "tools/counter-intel/major-winner"]
+	path = tools/counter-intel/major-winner
+	url = https://github.com/vikiboss/major-winner
+[submodule "tools/counter-intel/counterspell"]
+	path = tools/counter-intel/counterspell
+	url = https://github.com/MasiaVittorio/counterspell
+[submodule "tools/counter-intel/cs2-prices-tracker"]
+	path = tools/counter-intel/cs2-prices-tracker
+	url = https://github.com/LukeX404/cs2-prices-tracker
+[submodule "tools/open-source-cybersecurity/OpenUBA"]
+	path = tools/open-source-cybersecurity/OpenUBA
+	url = https://github.com/GACWR/OpenUBA
+[submodule "tools/open-source-cybersecurity/osint_toolkit"]
+	path = tools/open-source-cybersecurity/osint_toolkit
+	url = https://github.com/dev-lu/osint_toolkit
+[submodule "tools/open-source-cybersecurity/foundation"]
+	path = tools/open-source-cybersecurity/foundation
+	url = https://github.com/cybnity/foundation
+[submodule "tools/open-source-cybersecurity/cs-wordpress-bouncer"]
+	path = tools/open-source-cybersecurity/cs-wordpress-bouncer
+	url = https://github.com/crowdsecurity/cs-wordpress-bouncer
