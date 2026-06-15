@@ -676,3 +676,15 @@
 [submodule "tools/adversarial-hacker-tools/wordpress-plugins"]
 	path = tools/adversarial-hacker-tools/wordpress-plugins
 	url = https://github.com/rix4uni/wordpress-plugins
+[submodule "tools/autonomous-triage/osint-feed"]
+	path = tools/autonomous-triage/osint-feed
+	url = https://github.com/whitakerunsaturated400/osint-feed
+[submodule "tools/vibe-coded-prototypes/Prospect-IQ"]
+	path = tools/vibe-coded-prototypes/Prospect-IQ
+	url = https://github.com/skyplon/Prospect-IQ
+[submodule "tools/vibe-coded-prototypes/GitSage"]
+	path = tools/vibe-coded-prototypes/GitSage
+	url = https://github.com/iamAgbaCoder/GitSage
+[submodule "tools/vibe-coded-prototypes/DIGNITY_AI"]
+	path = tools/vibe-coded-prototypes/DIGNITY_AI
+	url = https://github.com/zorenhelal2-maker/DIGNITY_AI

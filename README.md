@@ -1360,3 +1360,24 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: ⚔️ Ethical OSINT tool for recon, AI chat, and data footprinting — made for bug hunters, devs, and cyber warriors
 - **Stars**: 1 | **Last Updated**: 2025-06-30
 
+
+### 🚀 Next-Era OSINT: Deep Web, Autonomous Triage & Vibe-Coded Systems
+
+*The bleeding edge of OSINT, focusing on darknet resiliency, multi-agent intelligence swarms, and AI-generated investigative prototypes.*
+
+#### [whitakerunsaturated400/osint-feed](https://github.com/whitakerunsaturated400/osint-feed) - *Autonomous Triage*
+- **Description**: Harvest RSS and HTML news sources in Node.js, deduplicate articles, and build compact digests for LLM context windows
+- **Stars**: 6 | **Last Updated**: 2026-06-15
+
+#### [skyplon/Prospect-IQ](https://github.com/skyplon/Prospect-IQ) - *Vibe Coded Prototypes*
+- **Description**: AI-powered sales intelligence tool for Enterprise SDRs. Aggregates prospect signals across financial reports, LinkedIn activity, and tech stack data — generating personalized, brand-compliant outreach emails in under 5 minutes. Built as a vibe coding MVP prototype using Replit Agent.
+- **Stars**: 1 | **Last Updated**: 2026-05-29
+
+#### [iamAgbaCoder/GitSage](https://github.com/iamAgbaCoder/GitSage) - *Vibe Coded Prototypes*
+- **Description**: GitSage is an AI-powered Git intelligence tool that automatically generates high-quality commit messages from your staged changes — and explains them in plain English.  Built for developers across all stacks, it analyzes your Git diff, understands your code changes, and produces:
+- **Stars**: 1 | **Last Updated**: 2026-04-17
+
+#### [zorenhelal2-maker/DIGNITY_AI](https://github.com/zorenhelal2-maker/DIGNITY_AI) - *Vibe Coded Prototypes*
+- **Description**: “Dignity AI is an advanced artificial intelligence platform that can create 3D models, generate code, and conduct sophisticated dialogues. Serving as a versatile AI assistant, it surpasses traditional boundaries, offering a powerful tool for both creative design and technical development.”
+- **Stars**: 1 | **Last Updated**: 2026-04-16
+

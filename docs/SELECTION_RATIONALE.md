@@ -200,3 +200,10 @@
 - **[Laylanabil66/equasis-cli](https://github.com/Laylanabil66/equasis-cli)**: Integrated into `ai-agent-swarms`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
 - **[MLSpyShop/marielandryspyshop](https://github.com/MLSpyShop/marielandryspyshop)**: Integrated into `vibe-coded-systems`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
 - **[lofai12/osintax-lofi1](https://github.com/lofai12/osintax-lofi1)**: Integrated into `vibe-coded-systems`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+
+## Next-Era Capability Integration
+
+- **[whitakerunsaturated400/osint-feed](https://github.com/whitakerunsaturated400/osint-feed)**: Selected to fill technical gaps in `autonomous-triage`. Validated for active maintenance and alignment with the MrCakes Protocol.
+- **[skyplon/Prospect-IQ](https://github.com/skyplon/Prospect-IQ)**: Selected to fill technical gaps in `vibe-coded-prototypes`. Validated for active maintenance and alignment with the MrCakes Protocol.
+- **[iamAgbaCoder/GitSage](https://github.com/iamAgbaCoder/GitSage)**: Selected to fill technical gaps in `vibe-coded-prototypes`. Validated for active maintenance and alignment with the MrCakes Protocol.
+- **[zorenhelal2-maker/DIGNITY_AI](https://github.com/zorenhelal2-maker/DIGNITY_AI)**: Selected to fill technical gaps in `vibe-coded-prototypes`. Validated for active maintenance and alignment with the MrCakes Protocol.
