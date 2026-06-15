@@ -126,3 +126,16 @@
 - **[The-Osint-Toolbox/Telegram-OSINT](https://github.com/The-Osint-Toolbox/Telegram-OSINT)**: Integrated into `social-specific`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
 - **[prose-intelligence-ltd/Telepathy-Community](https://github.com/prose-intelligence-ltd/Telepathy-Community)**: Integrated into `social-specific`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
 - **[0x6rss/matkap](https://github.com/0x6rss/matkap)**: Integrated into `social-specific`. Provides critical capabilities in government intelligence, digital forensics, or financial tracking.
+
+## Massive AI & LLM Expansion Integration
+
+- **[joestanding/osint-analyser](https://github.com/joestanding/osint-analyser)**: Integrated into `llm-osint-frameworks`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+- **[SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)**: Integrated into `cybersec-ai-agents`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+- **[0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)**: Integrated into `cybersec-ai-agents`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+- **[PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)**: Integrated into `cybersec-ai-agents`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+- **[SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)**: Integrated into `cybersec-ai-agents`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+- **[FunnyWolf/agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform)**: Integrated into `cybersec-ai-agents`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+- **[maveryn/cti-bench](https://github.com/maveryn/cti-bench)**: Integrated into `threat-intel-ai`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+- **[peng-gao-lab/ctinexus](https://github.com/peng-gao-lab/ctinexus)**: Integrated into `threat-intel-ai`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+- **[infosecn1nja/TTPMapper](https://github.com/infosecn1nja/TTPMapper)**: Integrated into `threat-intel-ai`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+- **[Var5h1l/KQLIntel](https://github.com/Var5h1l/KQLIntel)**: Integrated into `threat-intel-ai`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.

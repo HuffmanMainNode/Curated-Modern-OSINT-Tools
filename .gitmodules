@@ -520,3 +520,33 @@
 [submodule "tools/social-specific/matkap"]
 	path = tools/social-specific/matkap
 	url = https://github.com/0x6rss/matkap
+[submodule "tools/llm-osint-frameworks/osint-analyser"]
+	path = tools/llm-osint-frameworks/osint-analyser
+	url = https://github.com/joestanding/osint-analyser
+[submodule "tools/cybersec-ai-agents/SWE-agent"]
+	path = tools/cybersec-ai-agents/SWE-agent
+	url = https://github.com/SWE-agent/SWE-agent
+[submodule "tools/cybersec-ai-agents/hexstrike-ai"]
+	path = tools/cybersec-ai-agents/hexstrike-ai
+	url = https://github.com/0x4m4/hexstrike-ai
+[submodule "tools/cybersec-ai-agents/Decepticon"]
+	path = tools/cybersec-ai-agents/Decepticon
+	url = https://github.com/PurpleAILAB/Decepticon
+[submodule "tools/cybersec-ai-agents/LuaN1aoAgent"]
+	path = tools/cybersec-ai-agents/LuaN1aoAgent
+	url = https://github.com/SanMuzZzZz/LuaN1aoAgent
+[submodule "tools/cybersec-ai-agents/agentic-soc-platform"]
+	path = tools/cybersec-ai-agents/agentic-soc-platform
+	url = https://github.com/FunnyWolf/agentic-soc-platform
+[submodule "tools/threat-intel-ai/cti-bench"]
+	path = tools/threat-intel-ai/cti-bench
+	url = https://github.com/maveryn/cti-bench
+[submodule "tools/threat-intel-ai/ctinexus"]
+	path = tools/threat-intel-ai/ctinexus
+	url = https://github.com/peng-gao-lab/ctinexus
+[submodule "tools/threat-intel-ai/TTPMapper"]
+	path = tools/threat-intel-ai/TTPMapper
+	url = https://github.com/infosecn1nja/TTPMapper
+[submodule "tools/threat-intel-ai/KQLIntel"]
+	path = tools/threat-intel-ai/KQLIntel
+	url = https://github.com/Var5h1l/KQLIntel

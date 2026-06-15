@@ -1038,3 +1038,58 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: Matkap - hunt down malicious Telegram bots
 - **Stars**: 951 | **Last Updated**: 2026-06-15
 
+
+### 🧠 Massive AI & LLM Expansion
+
+*A dedicated expansion focusing on Large Language Models, Cybersecurity AI Agents, and Threat Intelligence AI systems to empower next-gen OSINT workflows.*
+
+#### [joestanding/osint-analyser](https://github.com/joestanding/osint-analyser)
+- **Category**: `llm-osint-frameworks`
+- **Description**: Automated collection, translation and analysis of open source intelligence using large language models.
+- **Stars**: 39 | **Last Updated**: 2026-06-12
+
+#### [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent)
+- **Category**: `cybersec-ai-agents`
+- **Description**: SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] 
+- **Stars**: 19522 | **Last Updated**: 2026-06-15
+
+#### [0x4m4/hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)
+- **Category**: `cybersec-ai-agents`
+- **Description**: HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities.
+- **Stars**: 9597 | **Last Updated**: 2026-06-15
+
+#### [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon)
+- **Category**: `cybersec-ai-agents`
+- **Description**: Autonomous Hacking Agent for Red Team
+- **Stars**: 4374 | **Last Updated**: 2026-06-15
+
+#### [SanMuzZzZz/LuaN1aoAgent](https://github.com/SanMuzZzZz/LuaN1aoAgent)
+- **Category**: `cybersec-ai-agents`
+- **Description**: LuaN1aoAgent is a cognitive-driven AI hacker. It is a fully autonomous AI penetration testing agent, using dual-graph reasoning.
+- **Stars**: 1036 | **Last Updated**: 2026-06-15
+
+#### [FunnyWolf/agentic-soc-platform](https://github.com/FunnyWolf/agentic-soc-platform)
+- **Category**: `cybersec-ai-agents`
+- **Description**: Agentic SOC Platform: A powerful, flexible, open-source, and agent-centric automated security operations platform (AI SOC)
+- **Stars**: 852 | **Last Updated**: 2026-06-15
+
+#### [maveryn/cti-bench](https://github.com/maveryn/cti-bench)
+- **Category**: `threat-intel-ai`
+- **Description**: [NeurIPS'24, Spotlight] CTIBench: A Benchmark for Evaluating LLMs in Cyber Threat Intelligence
+- **Stars**: 86 | **Last Updated**: 2026-06-06
+
+#### [peng-gao-lab/ctinexus](https://github.com/peng-gao-lab/ctinexus)
+- **Category**: `threat-intel-ai`
+- **Description**: CTINexus is a framework that leverages optimized in-context learning of LLMs to enable data-efficient extraction of cyber threat intelligence and the construction of high-quality cybersecurity knowledge graphs.
+- **Stars**: 83 | **Last Updated**: 2026-06-13
+
+#### [infosecn1nja/TTPMapper](https://github.com/infosecn1nja/TTPMapper)
+- **Category**: `threat-intel-ai`
+- **Description**: TTPMapper is an AI-driven threat intelligence parser that converts unstructured reports whether from web URLs or PDF files into structured intelligence. Using the DeepSeek LLM, it extracts MITRE ATT&CK techniques, IOCs, threat actors, and generates contextual summaries.
+- **Stars**: 54 | **Last Updated**: 2026-05-28
+
+#### [Var5h1l/KQLIntel](https://github.com/Var5h1l/KQLIntel)
+- **Category**: `threat-intel-ai`
+- **Description**: KQLIntel is a browser-based tool that uses LLMs to convert threat intelligence reports into actionable Kusto Query Language (KQL) queries by extracting IOCs from URLs or raw text.
+- **Stars**: 31 | **Last Updated**: 2026-05-29
+
