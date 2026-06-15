@@ -1,3 +1,16 @@
+# The Ultimate Open-Source Intelligence (OSINT) Ecosystem
+
+## Our Mission
+We are building a highly organized, zero-trust validated, and continuously expanding ecosystem of modern OSINT tools. Our goal is to aggregate everything from widely-adopted frameworks to cutting-edge AI agents and secure communication platforms, creating a centralized hub for researchers, analysts, and developers.
+
+## Repository Organization
+This repository is physically structured using Git submodules, ensuring you always have access to the latest upstream code. We categorize our findings into the following domains:
+- **Popular & General OSINT**: Industry-standard tools, reconnaissance scripts, and broad frameworks.
+- **Niche & Hidden Gems**: Highly specialized, lesser-known utilities built by independent creators.
+- **AI Agents & Platforms**: Next-generation, LLM-driven intelligence gathering, threat mapping, and autonomous agents.
+- **Secure Communications**: Open-source, privacy-first methods for secure, untraceable collaboration among researchers.
+
+---
 
 # Structured Methodology for OSINT Tool Curation
 
@@ -355,4 +368,124 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: Machine-readable .txt IP blocklist from ThreatFox by Abuse.ch, updated every hour.
 - **Origin & Ownership**: Owned and maintained by **elliotwutingfeng** (Entity Type: *User*). Licensed under: *BSD 3-Clause "New" or "Revised" License*.
 - **Stars**: 55 | **Last Updated**: 2026-06-15
+
+
+### Expansive AI Platforms, Secure Comms & OSINT Frameworks
+
+*A comprehensive addition of large-scale AI ecosystems, open-source secure communication platforms, and overarching intelligence frameworks.*
+
+#### [AXRoux/OSINT-Assistant](https://github.com/AXRoux/OSINT-Assistant) - *Ai Platforms*
+- **Description**: Open Source framework for anyone to work with Perplexity Sonar
+- **Origin & Ownership**: Owned and maintained by **AXRoux** (User). Licensed under: *MIT License*.
+- **Stars**: 76 | **Last Updated**: 2026-06-12
+
+#### [ExploitCraft/ReconNinja](https://github.com/ExploitCraft/ReconNinja) - *Ai Platforms*
+- **Description**: ⚡ ReconNinja v9.1.2 — 38-phase recon framework for pentesters & bug bounty hunters. Subdomain enum → port scan → web recon → WAF/CORS/JS/cloud bucket detection → GitHub OSINT → CVE lookup → AI threat analysis → HTML report. Domains, IPs, CIDRs, target lists. Plugin system. 598 tests.
+- **Origin & Ownership**: Owned and maintained by **ExploitCraft** (User). Licensed under: *MIT License*.
+- **Stars**: 39 | **Last Updated**: 2026-06-15
+
+#### [forensic-toolkit/recops](https://github.com/forensic-toolkit/recops) - *Ai Platforms*
+- **Description**: recops is a facial analysis framework, an AI forensic toolkit designed specifically for visual investigations and analysis workflows in OSINT research.
+- **Origin & Ownership**: Owned and maintained by **forensic-toolkit** (Organization). Licensed under: *Other*.
+- **Stars**: 16 | **Last Updated**: 2026-04-08
+
+#### [usr2r00t/OASC](https://github.com/usr2r00t/OASC) - *Ai Platforms*
+- **Description**: OpenAI Security Console - Python3 AI-powered Cybersecurity Framework
+- **Origin & Ownership**: Owned and maintained by **usr2r00t** (User). Licensed under: *No License / Custom*.
+- **Stars**: 16 | **Last Updated**: 2025-10-21
+
+#### [MohakTech/Cloak](https://github.com/MohakTech/Cloak) - *Secure Comms*
+- **Description**: Cloak 🛡️ | Decentralized & Encrypted Chat  A privacy-focused, open-source chat platform leveraging blockchain authentication, end-to-end encryption, and a Tor-like routing system for truly secure and anonymous communication. No central authority. No data tracking. Just pure privacy.
+- **Origin & Ownership**: Owned and maintained by **MohakTech** (Organization). Licensed under: *No License / Custom*.
+- **Stars**: 1 | **Last Updated**: 2025-03-08
+
+#### [ManuYT-dev/PeerCord](https://github.com/ManuYT-dev/PeerCord) - *Secure Comms*
+- **Description**: PeerCord is a decentralized, open-source P2P communication platform built to function like Discord. By replacing central servers with direct peer-to-peer connections, it offers secure, privacy-first voice, video, and text chat. Enjoy high-quality, serverless communities controlled entirely by you and your peers.
+- **Origin & Ownership**: Owned and maintained by **ManuYT-dev** (User). Licensed under: *MIT License*.
+- **Stars**: 1 | **Last Updated**: 2026-05-17
+
+#### [gungwang/gungchat](https://github.com/gungwang/gungchat) - *Secure Comms*
+- **Description**: GungChat (敢说) 目前最安全的点对点加密通讯应用程序：100%保密、完全隐私、无用户数据泄露、无登录、无服务器依赖、点对点、完全匿名、数据加密、无广告、无追踪、完全自主控制、短信、语音通话、视频通话、开源免费。GungChat puts privacy first. This open‑source P2P messenger encrypts every text, call, and video—without accounts or servers. No tracking, no ads, just secure communication with total freedom.
+- **Origin & Ownership**: Owned and maintained by **gungwang** (User). Licensed under: *No License / Custom*.
+- **Stars**: 1 | **Last Updated**: 2026-05-28
+
+#### [graniet/operative-framework](https://github.com/graniet/operative-framework) - *General Osint*
+- **Description**: operative framework is a rust investigation OSINT framework, you can interact with multiple targets, execute multiple modules, create links with target, export rapport to PDF file, add note to target or results, interact with RESTFul API, write your own modules.
+- **Origin & Ownership**: Owned and maintained by **graniet** (User). Licensed under: *No License / Custom*.
+- **Stars**: 744 | **Last Updated**: 2026-06-15
+
+#### [techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit](https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit) - *General Osint*
+- **Description**: A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repository contains a collection of scripts, resources, and methodologies to aid in gathering and analyzing publicly available information. Designed for security researchers, journalists, and forensic analysts for ethical and legal investigations.
+- **Origin & Ownership**: Owned and maintained by **techenthusiast167** (User). Licensed under: *No License / Custom*.
+- **Stars**: 330 | **Last Updated**: 2026-06-15
+
+#### [AnonCatalyst/Coeus-OSINT-ToolBox](https://github.com/AnonCatalyst/Coeus-OSINT-ToolBox) - *General Osint*
+- **Description**: Coeus 🌐 is an OSINT ToolBox empowering users with tools for effective intelligence gathering from open sources. From social media monitoring 📱 to data analysis 📊, it offers a centralized platform for seamless OSINT investigations.
+- **Origin & Ownership**: Owned and maintained by **AnonCatalyst** (User). Licensed under: *MIT License*.
+- **Stars**: 228 | **Last Updated**: 2026-06-15
+
+#### [JambaAcademy/OSINT](https://github.com/JambaAcademy/OSINT) - *General Osint*
+- **Description**: Companion repo for A Complete Guide to Mastering OSINT (2025). Includes free templates ($5,000 value), latest 2025 OSINT tools, and resources for ethical intelligence gathering. Supports book chapters on social media, cryptocurrency, and more. Ideal for investigators and cybersecurity pros. github.com/JambaAcademy/OSINT
+- **Origin & Ownership**: Owned and maintained by **JambaAcademy** (User). Licensed under: *MIT License*.
+- **Stars**: 101 | **Last Updated**: 2026-06-11
+
+
+### Expansive AI Platforms, Secure Comms & OSINT Frameworks
+
+*A comprehensive addition of large-scale AI ecosystems, open-source secure communication platforms, and overarching intelligence frameworks.*
+
+#### [AXRoux/OSINT-Assistant](https://github.com/AXRoux/OSINT-Assistant) - *Ai Platforms*
+- **Description**: Open Source framework for anyone to work with Perplexity Sonar
+- **Origin & Ownership**: Owned and maintained by **AXRoux** (User). Licensed under: *MIT License*.
+- **Stars**: 76 | **Last Updated**: 2026-06-12
+
+#### [ExploitCraft/ReconNinja](https://github.com/ExploitCraft/ReconNinja) - *Ai Platforms*
+- **Description**: ⚡ ReconNinja v9.1.2 — 38-phase recon framework for pentesters & bug bounty hunters. Subdomain enum → port scan → web recon → WAF/CORS/JS/cloud bucket detection → GitHub OSINT → CVE lookup → AI threat analysis → HTML report. Domains, IPs, CIDRs, target lists. Plugin system. 598 tests.
+- **Origin & Ownership**: Owned and maintained by **ExploitCraft** (User). Licensed under: *MIT License*.
+- **Stars**: 39 | **Last Updated**: 2026-06-15
+
+#### [forensic-toolkit/recops](https://github.com/forensic-toolkit/recops) - *Ai Platforms*
+- **Description**: recops is a facial analysis framework, an AI forensic toolkit designed specifically for visual investigations and analysis workflows in OSINT research.
+- **Origin & Ownership**: Owned and maintained by **forensic-toolkit** (Organization). Licensed under: *Other*.
+- **Stars**: 16 | **Last Updated**: 2026-04-08
+
+#### [usr2r00t/OASC](https://github.com/usr2r00t/OASC) - *Ai Platforms*
+- **Description**: OpenAI Security Console - Python3 AI-powered Cybersecurity Framework
+- **Origin & Ownership**: Owned and maintained by **usr2r00t** (User). Licensed under: *No License / Custom*.
+- **Stars**: 16 | **Last Updated**: 2025-10-21
+
+#### [MohakTech/Cloak](https://github.com/MohakTech/Cloak) - *Secure Comms*
+- **Description**: Cloak 🛡️ | Decentralized & Encrypted Chat  A privacy-focused, open-source chat platform leveraging blockchain authentication, end-to-end encryption, and a Tor-like routing system for truly secure and anonymous communication. No central authority. No data tracking. Just pure privacy.
+- **Origin & Ownership**: Owned and maintained by **MohakTech** (Organization). Licensed under: *No License / Custom*.
+- **Stars**: 1 | **Last Updated**: 2025-03-08
+
+#### [ManuYT-dev/PeerCord](https://github.com/ManuYT-dev/PeerCord) - *Secure Comms*
+- **Description**: PeerCord is a decentralized, open-source P2P communication platform built to function like Discord. By replacing central servers with direct peer-to-peer connections, it offers secure, privacy-first voice, video, and text chat. Enjoy high-quality, serverless communities controlled entirely by you and your peers.
+- **Origin & Ownership**: Owned and maintained by **ManuYT-dev** (User). Licensed under: *MIT License*.
+- **Stars**: 1 | **Last Updated**: 2026-05-17
+
+#### [gungwang/gungchat](https://github.com/gungwang/gungchat) - *Secure Comms*
+- **Description**: GungChat (敢说) 目前最安全的点对点加密通讯应用程序：100%保密、完全隐私、无用户数据泄露、无登录、无服务器依赖、点对点、完全匿名、数据加密、无广告、无追踪、完全自主控制、短信、语音通话、视频通话、开源免费。GungChat puts privacy first. This open‑source P2P messenger encrypts every text, call, and video—without accounts or servers. No tracking, no ads, just secure communication with total freedom.
+- **Origin & Ownership**: Owned and maintained by **gungwang** (User). Licensed under: *No License / Custom*.
+- **Stars**: 1 | **Last Updated**: 2026-05-28
+
+#### [graniet/operative-framework](https://github.com/graniet/operative-framework) - *General Osint*
+- **Description**: operative framework is a rust investigation OSINT framework, you can interact with multiple targets, execute multiple modules, create links with target, export rapport to PDF file, add note to target or results, interact with RESTFul API, write your own modules.
+- **Origin & Ownership**: Owned and maintained by **graniet** (User). Licensed under: *No License / Custom*.
+- **Stars**: 744 | **Last Updated**: 2026-06-15
+
+#### [techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit](https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit) - *General Osint*
+- **Description**: A curated toolkit for Open-Source Intelligence (OSINT) investigations. This repository contains a collection of scripts, resources, and methodologies to aid in gathering and analyzing publicly available information. Designed for security researchers, journalists, and forensic analysts for ethical and legal investigations.
+- **Origin & Ownership**: Owned and maintained by **techenthusiast167** (User). Licensed under: *No License / Custom*.
+- **Stars**: 330 | **Last Updated**: 2026-06-15
+
+#### [AnonCatalyst/Coeus-OSINT-ToolBox](https://github.com/AnonCatalyst/Coeus-OSINT-ToolBox) - *General Osint*
+- **Description**: Coeus 🌐 is an OSINT ToolBox empowering users with tools for effective intelligence gathering from open sources. From social media monitoring 📱 to data analysis 📊, it offers a centralized platform for seamless OSINT investigations.
+- **Origin & Ownership**: Owned and maintained by **AnonCatalyst** (User). Licensed under: *MIT License*.
+- **Stars**: 228 | **Last Updated**: 2026-06-15
+
+#### [JambaAcademy/OSINT](https://github.com/JambaAcademy/OSINT) - *General Osint*
+- **Description**: Companion repo for A Complete Guide to Mastering OSINT (2025). Includes free templates ($5,000 value), latest 2025 OSINT tools, and resources for ethical intelligence gathering. Supports book chapters on social media, cryptocurrency, and more. Ideal for investigators and cybersecurity pros. github.com/JambaAcademy/OSINT
+- **Origin & Ownership**: Owned and maintained by **JambaAcademy** (User). Licensed under: *MIT License*.
+- **Stars**: 101 | **Last Updated**: 2026-06-11
 

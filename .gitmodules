@@ -160,3 +160,36 @@
 [submodule "tools/next-gen/ThreatFox-IOC-IPs"]
 	path = tools/next-gen/ThreatFox-IOC-IPs
 	url = https://github.com/elliotwutingfeng/ThreatFox-IOC-IPs
+[submodule "tools/ai-platforms/OSINT-Assistant"]
+	path = tools/ai-platforms/OSINT-Assistant
+	url = https://github.com/AXRoux/OSINT-Assistant
+[submodule "tools/ai-platforms/ReconNinja"]
+	path = tools/ai-platforms/ReconNinja
+	url = https://github.com/ExploitCraft/ReconNinja
+[submodule "tools/ai-platforms/recops"]
+	path = tools/ai-platforms/recops
+	url = https://github.com/forensic-toolkit/recops
+[submodule "tools/ai-platforms/OASC"]
+	path = tools/ai-platforms/OASC
+	url = https://github.com/usr2r00t/OASC
+[submodule "tools/secure-comms/Cloak"]
+	path = tools/secure-comms/Cloak
+	url = https://github.com/MohakTech/Cloak
+[submodule "tools/secure-comms/PeerCord"]
+	path = tools/secure-comms/PeerCord
+	url = https://github.com/ManuYT-dev/PeerCord
+[submodule "tools/secure-comms/gungchat"]
+	path = tools/secure-comms/gungchat
+	url = https://github.com/gungwang/gungchat
+[submodule "tools/general-osint/operative-framework"]
+	path = tools/general-osint/operative-framework
+	url = https://github.com/graniet/operative-framework
+[submodule "tools/general-osint/D4rk_Intel-OSINT-Investigative-Toolkit"]
+	path = tools/general-osint/D4rk_Intel-OSINT-Investigative-Toolkit
+	url = https://github.com/techenthusiast167/D4rk_Intel-OSINT-Investigative-Toolkit
+[submodule "tools/general-osint/Coeus-OSINT-ToolBox"]
+	path = tools/general-osint/Coeus-OSINT-ToolBox
+	url = https://github.com/AnonCatalyst/Coeus-OSINT-ToolBox
+[submodule "tools/general-osint/OSINT"]
+	path = tools/general-osint/OSINT
+	url = https://github.com/JambaAcademy/OSINT
