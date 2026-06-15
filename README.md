@@ -1220,3 +1220,53 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: Finds as much OSINT data as possible using email address as a search term.
 - **Stars**: 76 | **Last Updated**: 2026-06-02
 
+
+### 🔄 Ongoing Tool Discovery & Integration
+
+*Newly discovered, validated tools expanding our existing categories.*
+
+#### [C3n7ral051nt4g3ncy/HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk)
+- **Category**: `threat-intel`
+- **Description**: Cross-platform username reconnaissance tool built for OSINT investigators, cyber threat analysts, red teamers, and CTF enthusiasts.
+- **Stars**: 134 | **Last Updated**: 2026-05-27
+
+#### [NullArray/Mimir](https://github.com/NullArray/Mimir)
+- **Category**: `threat-intel`
+- **Description**: OSINT Threat Intel Interface - CLI for HoneyDB
+- **Stars**: 118 | **Last Updated**: 2026-03-05
+
+#### [ninedter/pcap-hunter](https://github.com/ninedter/pcap-hunter)
+- **Category**: `threat-intel`
+- **Description**: PCAP Hunter is an AI threat hunting workbench. It uses Zeek and Tshark to analyze PCAPs, enriched by OSINT. Features include a world map, JA3 forensics, and C2 detection. It generates multi-language security reports via local or cloud LLMs, prioritizing privacy and speed.
+- **Stars**: 117 | **Last Updated**: 2026-06-13
+
+#### [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)
+- **Category**: `geo-osint`
+- **Description**: httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+- **Stars**: 10046 | **Last Updated**: 2026-06-15
+
+#### [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)
+- **Category**: `geo-osint`
+- **Description**: OneForAll是一款功能强大的子域收集工具
+- **Stars**: 9855 | **Last Updated**: 2026-06-15
+
+#### [ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
+- **Category**: `geo-osint`
+- **Description**: iOS interview questions;iOS面试题集锦（附答案） 
+- **Stars**: 9526 | **Last Updated**: 2026-06-14
+
+#### [Nix4444/Pimeyes-scraper](https://github.com/Nix4444/Pimeyes-scraper)
+- **Category**: `leak-osint`
+- **Description**: Automated Selenium-based scraper for PimEyes, enabling reverse face search for Open-Source Intelligence (OSINT) applications. Streamlined data extraction for enhanced investigative capabilities.
+- **Stars**: 120 | **Last Updated**: 2026-06-09
+
+#### [bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox)
+- **Category**: `leak-osint`
+- **Description**: Tool for OSINT forensic analysis, search and graphing of communications content such as email MBOX files and CSV text message data using Elasticsearch and Kibana
+- **Stars**: 86 | **Last Updated**: 2026-06-12
+
+#### [RocketGod-git/email-osint-discord-bot](https://github.com/RocketGod-git/email-osint-discord-bot)
+- **Category**: `leak-osint`
+- **Description**: Finds as much OSINT data as possible using email address as a search term.
+- **Stars**: 76 | **Last Updated**: 2026-06-02
+
