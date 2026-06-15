@@ -800,3 +800,88 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: CrowdSec is an open-source cyber security tool. This plugin blocks detected attackers or display them a captcha.
 - **Stars**: 43 | **Last Updated**: 2026-01-09
 
+
+### 🕸️ Data Scrapers, Dark Web, & Corporate Recon
+
+*Expanding into data extraction, deep web intelligence, and corporate footprinting for job hunting and reconnaissance.*
+
+#### [soxoj/socid-extractor](https://github.com/soxoj/socid-extractor)
+- **Category**: `data-scrapers`
+- **Description**: ⛏️ The extraction engine behind Maigret: turn any profile URL into a structured OSINT record  across 150+ sites
+- **Stars**: 1008 | **Last Updated**: 2026-06-15
+
+#### [chadi0x/TheBigBrother](https://github.com/chadi0x/TheBigBrother)
+- **Category**: `data-scrapers`
+- **Description**: The Big Brother V5.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.
+- **Stars**: 619 | **Last Updated**: 2026-06-15
+
+#### [techenthusiast167/Master-OSINT-Toolkit-](https://github.com/techenthusiast167/Master-OSINT-Toolkit-)
+- **Category**: `data-scrapers`
+- **Description**: A user-friendly Python toolkit for open source intelligence, providing key features such as image geolocation, social media profiling, email breach checks, domain lookup, metadata extraction, Google dorking, Wayback Machine queries, IP geolocation with blacklist checks, reverse image search, among others.
+- **Stars**: 397 | **Last Updated**: 2026-06-15
+
+#### [techenthusiast167/WebRecon](https://github.com/techenthusiast167/WebRecon)
+- **Category**: `data-scrapers`
+- **Description**: WebRecon is an advanced Open Source Intelligence (OSINT) web reconnaissance tool designed for cybersecurity professionals, penetration testers, and security researchers. It automates the process of gathering intelligence from target websites through comprehensive crawling, data extraction, and analysis.
+- **Stars**: 280 | **Last Updated**: 2026-06-15
+
+#### [apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)
+- **Category**: `dark-web-osint`
+- **Description**: AI-Powered Dark Web OSINT Tool
+- **Stars**: 5485 | **Last Updated**: 2026-06-15
+
+#### [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)
+- **Category**: `dark-web-osint`
+- **Description**: Dark Web OSINT Tool
+- **Stars**: 4128 | **Last Updated**: 2026-06-15
+
+#### [apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)
+- **Category**: `dark-web-osint`
+- **Description**: OSINT Tools for the Dark Web
+- **Stars**: 2212 | **Last Updated**: 2026-06-15
+
+#### [iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)
+- **Category**: `dark-web-osint`
+- **Description**: Prying Deep - An OSINT tool to collect intelligence on the dark web.
+- **Stars**: 591 | **Last Updated**: 2026-06-11
+
+#### [ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)
+- **Category**: `job-hunting-recon`
+- **Description**: 🔍 Search anyone's digital footprint across 300+ websites
+- **Stars**: 3418 | **Last Updated**: 2026-06-15
+
+#### [0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework)
+- **Category**: `job-hunting-recon`
+- **Description**: The Offensive Manual Web Application Penetration Testing Framework.
+- **Stars**: 1864 | **Last Updated**: 2026-06-15
+
+#### [chadi0x/TheBigBrother](https://github.com/chadi0x/TheBigBrother)
+- **Category**: `job-hunting-recon`
+- **Description**: The Big Brother V5.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.
+- **Stars**: 619 | **Last Updated**: 2026-06-15
+
+#### [3nock/OTE](https://github.com/3nock/OTE)
+- **Category**: `job-hunting-recon`
+- **Description**: OSINT Template Engine
+- **Stars**: 576 | **Last Updated**: 2026-06-14
+
+#### [jofpin/trape](https://github.com/jofpin/trape)
+- **Category**: `iot-vehicle-osint`
+- **Description**: People tracker on the Internet: OSINT analysis and research tool by Jose Pino
+- **Stars**: 8698 | **Last Updated**: 2026-06-15
+
+#### [misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor)
+- **Category**: `iot-vehicle-osint`
+- **Description**: Track Instagram users' activities, profile changes and capture content with beautiful dashboards and instant notifications
+- **Stars**: 1048 | **Last Updated**: 2026-06-15
+
+#### [N0rz3/Zehef](https://github.com/N0rz3/Zehef)
+- **Category**: `iot-vehicle-osint`
+- **Description**: Zehef is an osint tool to track emails
+- **Stars**: 1024 | **Last Updated**: 2026-06-08
+
+#### [mxrch/GitFive](https://github.com/mxrch/GitFive)
+- **Category**: `iot-vehicle-osint`
+- **Description**: 🐙 Track down GitHub users.
+- **Stars**: 999 | **Last Updated**: 2026-06-13
+

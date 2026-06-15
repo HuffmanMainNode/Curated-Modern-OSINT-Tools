@@ -79,3 +79,22 @@
 - **[dev-lu/osint_toolkit](https://github.com/dev-lu/osint_toolkit)**: Integrated into `open-source-cybersecurity`. Addresses defensive OSINT and open-source cybersecurity practices.
 - **[cybnity/foundation](https://github.com/cybnity/foundation)**: Integrated into `open-source-cybersecurity`. Addresses defensive OSINT and open-source cybersecurity practices.
 - **[crowdsecurity/cs-wordpress-bouncer](https://github.com/crowdsecurity/cs-wordpress-bouncer)**: Integrated into `open-source-cybersecurity`. Addresses defensive OSINT and open-source cybersecurity practices.
+
+## Data Extraction & Deep Recon Integration
+
+- **[soxoj/socid-extractor](https://github.com/soxoj/socid-extractor)**: Integrated into `data-scrapers`. Expands capabilities into targeted scraping or deep recon.
+- **[chadi0x/TheBigBrother](https://github.com/chadi0x/TheBigBrother)**: Integrated into `data-scrapers`. Expands capabilities into targeted scraping or deep recon.
+- **[techenthusiast167/Master-OSINT-Toolkit-](https://github.com/techenthusiast167/Master-OSINT-Toolkit-)**: Integrated into `data-scrapers`. Expands capabilities into targeted scraping or deep recon.
+- **[techenthusiast167/WebRecon](https://github.com/techenthusiast167/WebRecon)**: Integrated into `data-scrapers`. Expands capabilities into targeted scraping or deep recon.
+- **[apurvsinghgautam/robin](https://github.com/apurvsinghgautam/robin)**: Integrated into `dark-web-osint`. Expands capabilities into targeted scraping or deep recon.
+- **[DedSecInside/TorBot](https://github.com/DedSecInside/TorBot)**: Integrated into `dark-web-osint`. Expands capabilities into targeted scraping or deep recon.
+- **[apurvsinghgautam/dark-web-osint-tools](https://github.com/apurvsinghgautam/dark-web-osint-tools)**: Integrated into `dark-web-osint`. Expands capabilities into targeted scraping or deep recon.
+- **[iudicium/pryingdeep](https://github.com/iudicium/pryingdeep)**: Integrated into `dark-web-osint`. Expands capabilities into targeted scraping or deep recon.
+- **[ibnaleem/gosearch](https://github.com/ibnaleem/gosearch)**: Integrated into `job-hunting-recon`. Expands capabilities into targeted scraping or deep recon.
+- **[0xInfection/TIDoS-Framework](https://github.com/0xInfection/TIDoS-Framework)**: Integrated into `job-hunting-recon`. Expands capabilities into targeted scraping or deep recon.
+- **[chadi0x/TheBigBrother](https://github.com/chadi0x/TheBigBrother)**: Integrated into `job-hunting-recon`. Expands capabilities into targeted scraping or deep recon.
+- **[3nock/OTE](https://github.com/3nock/OTE)**: Integrated into `job-hunting-recon`. Expands capabilities into targeted scraping or deep recon.
+- **[jofpin/trape](https://github.com/jofpin/trape)**: Integrated into `iot-vehicle-osint`. Expands capabilities into targeted scraping or deep recon.
+- **[misiektoja/instagram_monitor](https://github.com/misiektoja/instagram_monitor)**: Integrated into `iot-vehicle-osint`. Expands capabilities into targeted scraping or deep recon.
+- **[N0rz3/Zehef](https://github.com/N0rz3/Zehef)**: Integrated into `iot-vehicle-osint`. Expands capabilities into targeted scraping or deep recon.
+- **[mxrch/GitFive](https://github.com/mxrch/GitFive)**: Integrated into `iot-vehicle-osint`. Expands capabilities into targeted scraping or deep recon.

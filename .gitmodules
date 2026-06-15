@@ -397,3 +397,51 @@
 [submodule "tools/open-source-cybersecurity/cs-wordpress-bouncer"]
 	path = tools/open-source-cybersecurity/cs-wordpress-bouncer
 	url = https://github.com/crowdsecurity/cs-wordpress-bouncer
+[submodule "tools/data-scrapers/socid-extractor"]
+	path = tools/data-scrapers/socid-extractor
+	url = https://github.com/soxoj/socid-extractor
+[submodule "tools/data-scrapers/TheBigBrother"]
+	path = tools/data-scrapers/TheBigBrother
+	url = https://github.com/chadi0x/TheBigBrother
+[submodule "tools/data-scrapers/Master-OSINT-Toolkit-"]
+	path = tools/data-scrapers/Master-OSINT-Toolkit-
+	url = https://github.com/techenthusiast167/Master-OSINT-Toolkit-
+[submodule "tools/data-scrapers/WebRecon"]
+	path = tools/data-scrapers/WebRecon
+	url = https://github.com/techenthusiast167/WebRecon
+[submodule "tools/dark-web-osint/robin"]
+	path = tools/dark-web-osint/robin
+	url = https://github.com/apurvsinghgautam/robin
+[submodule "tools/dark-web-osint/TorBot"]
+	path = tools/dark-web-osint/TorBot
+	url = https://github.com/DedSecInside/TorBot
+[submodule "tools/dark-web-osint/dark-web-osint-tools"]
+	path = tools/dark-web-osint/dark-web-osint-tools
+	url = https://github.com/apurvsinghgautam/dark-web-osint-tools
+[submodule "tools/dark-web-osint/pryingdeep"]
+	path = tools/dark-web-osint/pryingdeep
+	url = https://github.com/iudicium/pryingdeep
+[submodule "tools/job-hunting-recon/gosearch"]
+	path = tools/job-hunting-recon/gosearch
+	url = https://github.com/ibnaleem/gosearch
+[submodule "tools/job-hunting-recon/TIDoS-Framework"]
+	path = tools/job-hunting-recon/TIDoS-Framework
+	url = https://github.com/0xInfection/TIDoS-Framework
+[submodule "tools/job-hunting-recon/TheBigBrother"]
+	path = tools/job-hunting-recon/TheBigBrother
+	url = https://github.com/chadi0x/TheBigBrother
+[submodule "tools/job-hunting-recon/OTE"]
+	path = tools/job-hunting-recon/OTE
+	url = https://github.com/3nock/OTE
+[submodule "tools/iot-vehicle-osint/trape"]
+	path = tools/iot-vehicle-osint/trape
+	url = https://github.com/jofpin/trape
+[submodule "tools/iot-vehicle-osint/instagram_monitor"]
+	path = tools/iot-vehicle-osint/instagram_monitor
+	url = https://github.com/misiektoja/instagram_monitor
+[submodule "tools/iot-vehicle-osint/Zehef"]
+	path = tools/iot-vehicle-osint/Zehef
+	url = https://github.com/N0rz3/Zehef
+[submodule "tools/iot-vehicle-osint/GitFive"]
+	path = tools/iot-vehicle-osint/GitFive
+	url = https://github.com/mxrch/GitFive
