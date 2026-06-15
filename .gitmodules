@@ -550,3 +550,45 @@
 [submodule "tools/threat-intel-ai/KQLIntel"]
 	path = tools/threat-intel-ai/KQLIntel
 	url = https://github.com/Var5h1l/KQLIntel
+[submodule "tools/darknet-deepweb-core/JSpider"]
+	path = tools/darknet-deepweb-core/JSpider
+	url = https://github.com/iamshafayat/JSpider
+[submodule "tools/darknet-deepweb-core/poopak"]
+	path = tools/darknet-deepweb-core/poopak
+	url = https://github.com/teal33t/poopak
+[submodule "tools/darknet-deepweb-core/dezcrwl"]
+	path = tools/darknet-deepweb-core/dezcrwl
+	url = https://github.com/zebbern/dezcrwl
+[submodule "tools/whitehat-redteam-tools/awesome-osint-mcp-servers"]
+	path = tools/whitehat-redteam-tools/awesome-osint-mcp-servers
+	url = https://github.com/soxoj/awesome-osint-mcp-servers
+[submodule "tools/whitehat-redteam-tools/European-Parliament-MCP-Server"]
+	path = tools/whitehat-redteam-tools/European-Parliament-MCP-Server
+	url = https://github.com/Hack23/European-Parliament-MCP-Server
+[submodule "tools/whitehat-redteam-tools/TweetFeed"]
+	path = tools/whitehat-redteam-tools/TweetFeed
+	url = https://github.com/0xDanielLopez/TweetFeed
+[submodule "tools/next-era-automated-recon/WebForensic"]
+	path = tools/next-era-automated-recon/WebForensic
+	url = https://github.com/Arman171/WebForensic
+[submodule "tools/next-era-automated-recon/LeakRecon"]
+	path = tools/next-era-automated-recon/LeakRecon
+	url = https://github.com/egnake/LeakRecon
+[submodule "tools/next-era-automated-recon/UHT-Framework"]
+	path = tools/next-era-automated-recon/UHT-Framework
+	url = https://github.com/UfaqTech/UHT-Framework
+[submodule "tools/next-era-automated-recon/nox-framework"]
+	path = tools/next-era-automated-recon/nox-framework
+	url = https://github.com/nox-project/nox-framework
+[submodule "tools/under-the-radar-exploits/xssrecon"]
+	path = tools/under-the-radar-exploits/xssrecon
+	url = https://github.com/belohilly/xssrecon
+[submodule "tools/under-the-radar-exploits/kiro-cybersecurity-skills"]
+	path = tools/under-the-radar-exploits/kiro-cybersecurity-skills
+	url = https://github.com/onemorpheuss/kiro-cybersecurity-skills
+[submodule "tools/under-the-radar-exploits/ReconTitan"]
+	path = tools/under-the-radar-exploits/ReconTitan
+	url = https://github.com/D3v4nshPat3l/ReconTitan
+[submodule "tools/under-the-radar-exploits/Predator-Recon"]
+	path = tools/under-the-radar-exploits/Predator-Recon
+	url = https://github.com/zohanabbasi427-beep/Predator-Recon

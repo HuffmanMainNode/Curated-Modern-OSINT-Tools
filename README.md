@@ -1093,3 +1093,78 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: KQLIntel is a browser-based tool that uses LLMs to convert threat intelligence reports into actionable Kusto Query Language (KQL) queries by extracting IOCs from URLs or raw text.
 - **Stars**: 31 | **Last Updated**: 2026-05-29
 
+
+### 🌐 All-Layer Internet OSINT & Whitehat Operations
+
+*A comprehensive deep-dive into tools built for the Darknet, Deep Web, hacktivist/whitehat reconnaissance, and under-the-radar vulnerability intelligence.*
+
+#### [iamshafayat/JSpider](https://github.com/iamshafayat/JSpider)
+- **Category**: `darknet-deepweb-core`
+- **Description**: JSpider is a smart crawler for hidden endpoints. It crawls and extracts hidden API endpoints and URLs from JavaScript files and HTML source code - all directly in your browser.
+- **Stars**: 16 | **Last Updated**: 2026-06-05
+
+#### [teal33t/poopak](https://github.com/teal33t/poopak)
+- **Category**: `darknet-deepweb-core`
+- **Description**: POOPAK - TOR Hidden Service Crawler
+- **Stars**: 139 | **Last Updated**: 2026-04-10
+
+#### [zebbern/dezcrwl](https://github.com/zebbern/dezcrwl)
+- **Category**: `darknet-deepweb-core`
+- **Description**: 🕷️ | dezcrwl is a website history crawler gather hidden information and check vulnerabilities for extracted .js endpoints & much more! 
+- **Stars**: 7 | **Last Updated**: 2026-01-22
+
+#### [soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers)
+- **Category**: `whitehat-redteam-tools`
+- **Description**: 🔌 A curated list of OSINT MCP servers. Pull requests are welcomed!
+- **Stars**: 254 | **Last Updated**: 2026-06-15
+
+#### [Hack23/European-Parliament-MCP-Server](https://github.com/Hack23/European-Parliament-MCP-Server)
+- **Category**: `whitehat-redteam-tools`
+- **Description**: European Parliament MCP Server Model Context Protocol Server for European Parliament Open Data Providing AI assistants with structured access to parliamentary datasets
+- **Stars**: 16 | **Last Updated**: 2026-06-15
+
+#### [0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed)
+- **Category**: `whitehat-redteam-tools`
+- **Description**: TweetFeed collects Indicators of Compromise (IOCs) shared by the infosec community at Twitter. Here you will find malicious URLs, domains, IPs, and SHA256/MD5 hashes.
+- **Stars**: 661 | **Last Updated**: 2026-06-15
+
+#### [Arman171/WebForensic](https://github.com/Arman171/WebForensic)
+- **Category**: `next-era-automated-recon`
+- **Description**: WebForensicAnalyzer is an advanced all-in-one tool for web reconnaissance, digital forensics, OSINT, and cybersecurity professionals. It automates deep website analysis—leveraging Shodan, Nmap, and more—to detect vulnerabilities, extract data, and deliver structured forensic results
+- **Stars**: 13 | **Last Updated**: 2026-06-15
+
+#### [egnake/LeakRecon](https://github.com/egnake/LeakRecon)
+- **Category**: `next-era-automated-recon`
+- **Description**: An advanced, asynchronous OSINT and Dark Web reconnaissance framework engineered for automated threat intelligence and leak analysis. Features high-concurrency investigative engines and exclusive SOCKS5 Tor routing to ensure maximum OPSEC without reliance on third-party APIs.
+- **Stars**: 6 | **Last Updated**: 2026-06-14
+
+#### [UfaqTech/UHT-Framework](https://github.com/UfaqTech/UHT-Framework)
+- **Category**: `next-era-automated-recon`
+- **Description**: UHT (Ufaq Hacking Toolkit) is a modern, modular, multi-OS cybersecurity and penetration-testing framework. It provides an advanced CLI for ethical hacking, OSINT, reconnaissance, exploitation, vulnerability scanning, and automated tool management across Linux, Termux, Windows, and macOS. Designed for professionals and beginners.
+- **Stars**: 13 | **Last Updated**: 2026-05-26
+
+#### [nox-project/nox-framework](https://github.com/nox-project/nox-framework)
+- **Category**: `next-era-automated-recon`
+- **Description**: High-performance OSINT/CTI framework for automated identity pivoting and risk analysis across 120+ sources.
+- **Stars**: 188 | **Last Updated**: 2026-06-15
+
+#### [belohilly/xssrecon](https://github.com/belohilly/xssrecon)
+- **Category**: `under-the-radar-exploits`
+- **Description**: 🛡️ Discover reflected XSS vulnerabilities with XSSRecon, an automated tool for testing URL parameters and assessing input handling in web applications.
+- **Stars**: 3 | **Last Updated**: 2026-06-15
+
+#### [onemorpheuss/kiro-cybersecurity-skills](https://github.com/onemorpheuss/kiro-cybersecurity-skills)
+- **Category**: `under-the-radar-exploits`
+- **Description**: Expert methodology for offensive and defensive security: recon/OSINT, vulnerability assessment, exploit dev, reverse engineering, malware analysis, threat hunting, incident response, network/web/cloud security, SOC automation, log/SIEM analysis, cryptography, red team, and blue team hardening.
+- **Stars**: 1 | **Last Updated**: 2026-06-14
+
+#### [D3v4nshPat3l/ReconTitan](https://github.com/D3v4nshPat3l/ReconTitan)
+- **Category**: `under-the-radar-exploits`
+- **Description**: Military-grade OSINT & Web Vulnerability Scanner — 27+ tools, AI-powered analysis, Docker-ready
+- **Stars**: 0 | **Last Updated**: 2026-06-07
+
+#### [zohanabbasi427-beep/Predator-Recon](https://github.com/zohanabbasi427-beep/Predator-Recon)
+- **Category**: `under-the-radar-exploits`
+- **Description**: An automated cyber recon tool built with Python. It combines OSINT APIs with Nmap and Nikto vulnerability scanning under one web interface. It also includes a quick Netcat reverse shell payload generator.
+- **Stars**: 0 | **Last Updated**: 2026-05-31
+

@@ -139,3 +139,20 @@
 - **[peng-gao-lab/ctinexus](https://github.com/peng-gao-lab/ctinexus)**: Integrated into `threat-intel-ai`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
 - **[infosecn1nja/TTPMapper](https://github.com/infosecn1nja/TTPMapper)**: Integrated into `threat-intel-ai`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
 - **[Var5h1l/KQLIntel](https://github.com/Var5h1l/KQLIntel)**: Integrated into `threat-intel-ai`. Brings cutting-edge AI/LLM capabilities to the OSINT workflow.
+
+## All-Layer Internet & Whitehat Integration
+
+- **[iamshafayat/JSpider](https://github.com/iamshafayat/JSpider)**: Integrated into `darknet-deepweb-core`.
+- **[teal33t/poopak](https://github.com/teal33t/poopak)**: Integrated into `darknet-deepweb-core`.
+- **[zebbern/dezcrwl](https://github.com/zebbern/dezcrwl)**: Integrated into `darknet-deepweb-core`.
+- **[soxoj/awesome-osint-mcp-servers](https://github.com/soxoj/awesome-osint-mcp-servers)**: Integrated into `whitehat-redteam-tools`.
+- **[Hack23/European-Parliament-MCP-Server](https://github.com/Hack23/European-Parliament-MCP-Server)**: Integrated into `whitehat-redteam-tools`.
+- **[0xDanielLopez/TweetFeed](https://github.com/0xDanielLopez/TweetFeed)**: Integrated into `whitehat-redteam-tools`.
+- **[Arman171/WebForensic](https://github.com/Arman171/WebForensic)**: Integrated into `next-era-automated-recon`.
+- **[egnake/LeakRecon](https://github.com/egnake/LeakRecon)**: Integrated into `next-era-automated-recon`.
+- **[UfaqTech/UHT-Framework](https://github.com/UfaqTech/UHT-Framework)**: Integrated into `next-era-automated-recon`.
+- **[nox-project/nox-framework](https://github.com/nox-project/nox-framework)**: Integrated into `next-era-automated-recon`.
+- **[belohilly/xssrecon](https://github.com/belohilly/xssrecon)**: Integrated into `under-the-radar-exploits`.
+- **[onemorpheuss/kiro-cybersecurity-skills](https://github.com/onemorpheuss/kiro-cybersecurity-skills)**: Integrated into `under-the-radar-exploits`.
+- **[D3v4nshPat3l/ReconTitan](https://github.com/D3v4nshPat3l/ReconTitan)**: Integrated into `under-the-radar-exploits`.
+- **[zohanabbasi427-beep/Predator-Recon](https://github.com/zohanabbasi427-beep/Predator-Recon)**: Integrated into `under-the-radar-exploits`.
