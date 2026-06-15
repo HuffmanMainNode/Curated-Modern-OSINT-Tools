@@ -180,3 +180,23 @@
 - **[Nix4444/Pimeyes-scraper](https://github.com/Nix4444/Pimeyes-scraper)**: Integrated into `leak-osint`. Further expands the repository's capabilities.
 - **[bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox)**: Integrated into `leak-osint`. Further expands the repository's capabilities.
 - **[RocketGod-git/email-osint-discord-bot](https://github.com/RocketGod-git/email-osint-discord-bot)**: Integrated into `leak-osint`. Further expands the repository's capabilities.
+
+## Omni-Domain Integration
+
+- **[ni5arga/deanonymizer](https://github.com/ni5arga/deanonymizer)**: Integrated into `crypto-blockchain-intel`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[vognik/maltego-telegram](https://github.com/vognik/maltego-telegram)**: Integrated into `crypto-blockchain-intel`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[WPF0Ff/Instagram-probiv-osint](https://github.com/WPF0Ff/Instagram-probiv-osint)**: Integrated into `crypto-blockchain-intel`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[mazzz3r/ip_logger](https://github.com/mazzz3r/ip_logger)**: Integrated into `crypto-blockchain-intel`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[0xhav0c/ARGUS](https://github.com/0xhav0c/ARGUS)**: Integrated into `elite-asset-tracking`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[bad-antics/n01d-overwatch](https://github.com/bad-antics/n01d-overwatch)**: Integrated into `elite-asset-tracking`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[FNBIP/aegis-osint-map](https://github.com/FNBIP/aegis-osint-map)**: Integrated into `elite-asset-tracking`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[shallvhack/Flight-Tracker](https://github.com/shallvhack/Flight-Tracker)**: Integrated into `elite-asset-tracking`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[johan-martensson/Shadowbroker-archived](https://github.com/johan-martensson/Shadowbroker-archived)**: Integrated into `space-atmospheric-osint`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[chrishorton/SpaceRecon](https://github.com/chrishorton/SpaceRecon)**: Integrated into `space-atmospheric-osint`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[stellaryx-labs/starlink-finder](https://github.com/stellaryx-labs/starlink-finder)**: Integrated into `space-atmospheric-osint`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[ommengman-prog/god-eye](https://github.com/ommengman-prog/god-eye)**: Integrated into `adversarial-hacker-tools`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap)**: Integrated into `adversarial-hacker-tools`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[bradleybond512/crystal-ball](https://github.com/bradleybond512/crystal-ball)**: Integrated into `ai-agent-swarms`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[Laylanabil66/equasis-cli](https://github.com/Laylanabil66/equasis-cli)**: Integrated into `ai-agent-swarms`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[MLSpyShop/marielandryspyshop](https://github.com/MLSpyShop/marielandryspyshop)**: Integrated into `vibe-coded-systems`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.
+- **[lofai12/osintax-lofi1](https://github.com/lofai12/osintax-lofi1)**: Integrated into `vibe-coded-systems`. Fills a critical intelligence gap in non-standard telemetry or advanced adversarial reconnaissance.

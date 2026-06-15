@@ -1270,3 +1270,93 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: Finds as much OSINT data as possible using email address as a search term.
 - **Stars**: 76 | **Last Updated**: 2026-06-02
 
+
+### 🌍 Omni-Domain Intelligence: Space, Elite Assets & AI Swarms
+
+*A monumental expansion into non-traditional OSINT domains including satellite telemetry, multi-agent AI swarms, cryptocurrency flow tracing, and elite asset tracking (flights/yachts).*
+
+#### [ni5arga/deanonymizer](https://github.com/ni5arga/deanonymizer)
+- **Category**: `crypto-blockchain-intel`
+- **Description**: Deanonymize anyone based on their public commenting or posting history & pattern.
+- **Stars**: 282 | **Last Updated**: 2026-06-15
+
+#### [vognik/maltego-telegram](https://github.com/vognik/maltego-telegram)
+- **Category**: `crypto-blockchain-intel`
+- **Description**: 🔎 OSINT Maltego Transforms for investigating Telegram channels, groups, and users, including deanonymization via stickers, forwarded messages, similar channels, deleted posts, and more.
+- **Stars**: 466 | **Last Updated**: 2026-06-14
+
+#### [WPF0Ff/Instagram-probiv-osint](https://github.com/WPF0Ff/Instagram-probiv-osint)
+- **Category**: `crypto-blockchain-intel`
+- **Description**: Instagram-probiv-osint
+- **Stars**: 6 | **Last Updated**: 2026-05-22
+
+#### [mazzz3r/ip_logger](https://github.com/mazzz3r/ip_logger)
+- **Category**: `crypto-blockchain-intel`
+- **Description**: A powerful IP logging and deanonymization tool with Telegram bot integration
+- **Stars**: 8 | **Last Updated**: 2026-05-27
+
+#### [0xhav0c/ARGUS](https://github.com/0xhav0c/ARGUS)
+- **Category**: `elite-asset-tracking`
+- **Description**: Real-time global OSINT & intelligence dashboard — 3D globe visualization, multi-domain threat feeds, AI analysis, flight/vessel/satellite tracking. Built with Electron + React + CesiumJS.
+- **Stars**: 13 | **Last Updated**: 2026-06-15
+
+#### [bad-antics/n01d-overwatch](https://github.com/bad-antics/n01d-overwatch)
+- **Category**: `elite-asset-tracking`
+- **Description**: Real-time Middle East & Global Conflict Intelligence Dashboard  OSINT aggregation, flight tracking, war ops monitoring, missile defense mapping, interactive tactical map. Built with .NET 8 WPF + WebView2 + Leaflet.js
+- **Stars**: 6 | **Last Updated**: 2026-05-11
+
+#### [FNBIP/aegis-osint-map](https://github.com/FNBIP/aegis-osint-map)
+- **Category**: `elite-asset-tracking`
+- **Description**: Real-time OSINT situational awareness platform — global threat events, submarine cables, oil/gas pipelines, military bases, live flights, ship tracking, CCTV feeds, country instability index, and intel dossiers on an interactive 3D globe
+- **Stars**: 11 | **Last Updated**: 2026-06-13
+
+#### [shallvhack/Flight-Tracker](https://github.com/shallvhack/Flight-Tracker)
+- **Category**: `elite-asset-tracking`
+- **Description**: Flight Tracker: Real-time flight updates and interactive map for seamless tracking and staying in the loop.
+- **Stars**: 23 | **Last Updated**: 2026-02-12
+
+#### [johan-martensson/Shadowbroker-archived](https://github.com/johan-martensson/Shadowbroker-archived)
+- **Category**: `space-atmospheric-osint`
+- **Description**: Real-time multi-domain OSINT dashboard — fork of BigBodyCobain/Shadowbroker with expanded global military bases, satellite coverage fixes, and financial data improvements
+- **Stars**: 43 | **Last Updated**: 2026-05-31
+
+#### [chrishorton/SpaceRecon](https://github.com/chrishorton/SpaceRecon)
+- **Category**: `space-atmospheric-osint`
+- **Description**: SpaceRecon is an Open-Source Intelligence (OSINT) tool for satellite reconnaissance, built with Golang. The tool can retrieve and parse TLE (Two-Line Element) data, and get the latest satellite conjunctions.
+- **Stars**: 3 | **Last Updated**: 2024-09-02
+
+#### [stellaryx-labs/starlink-finder](https://github.com/stellaryx-labs/starlink-finder)
+- **Category**: `space-atmospheric-osint`
+- **Description**: A simple space OSINT tool to retrieve Starlink satellite data 🛰️
+- **Stars**: 12 | **Last Updated**: 2026-04-17
+
+#### [ommengman-prog/god-eye](https://github.com/ommengman-prog/god-eye)
+- **Category**: `adversarial-hacker-tools`
+- **Description**: 🛡️ Detect and respond to security threats in real-time with God-Eye, an AI-driven tool designed for privacy and local deployment on multiple platforms.
+- **Stars**: 39 | **Last Updated**: 2026-06-15
+
+#### [projectdiscovery/asnmap](https://github.com/projectdiscovery/asnmap)
+- **Category**: `adversarial-hacker-tools`
+- **Description**: Go CLI and Library for quickly mapping organization network ranges using ASN information.
+- **Stars**: 1059 | **Last Updated**: 2026-06-15
+
+#### [bradleybond512/crystal-ball](https://github.com/bradleybond512/crystal-ball)
+- **Category**: `ai-agent-swarms`
+- **Description**: Tauri 2 desktop intelligence platform — Cesium.js 3D globe, 185 live panels, MCP server for Claude Code, and an explainable algorithm intelligence layer (truth scoring, evidence graph, compound risk, forecast calibration) plus shortage / weather / insights engines. 600+ deterministic tests.
+- **Stars**: 5 | **Last Updated**: 2026-06-15
+
+#### [Laylanabil66/equasis-cli](https://github.com/Laylanabil66/equasis-cli)
+- **Category**: `ai-agent-swarms`
+- **Description**: 🚢 Access maritime intelligence easily with Equasis CLI, a command-line tool for querying vessel data and analyzing fleets efficiently.
+- **Stars**: 4 | **Last Updated**: 2026-06-15
+
+#### [MLSpyShop/marielandryspyshop](https://github.com/MLSpyShop/marielandryspyshop)
+- **Category**: `vibe-coded-systems`
+- **Description**: Marie Landry's Spy Shop
+- **Stars**: 1 | **Last Updated**: 2026-05-23
+
+#### [lofai12/osintax-lofi1](https://github.com/lofai12/osintax-lofi1)
+- **Category**: `vibe-coded-systems`
+- **Description**: ⚔️ Ethical OSINT tool for recon, AI chat, and data footprinting — made for bug hunters, devs, and cyber warriors
+- **Stars**: 1 | **Last Updated**: 2025-06-30
+

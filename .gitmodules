@@ -619,3 +619,57 @@
 [submodule "tools/leak-osint/email-osint-discord-bot"]
 	path = tools/leak-osint/email-osint-discord-bot
 	url = https://github.com/RocketGod-git/email-osint-discord-bot
+[submodule "tools/crypto-blockchain-intel/deanonymizer"]
+	path = tools/crypto-blockchain-intel/deanonymizer
+	url = https://github.com/ni5arga/deanonymizer
+[submodule "tools/crypto-blockchain-intel/maltego-telegram"]
+	path = tools/crypto-blockchain-intel/maltego-telegram
+	url = https://github.com/vognik/maltego-telegram
+[submodule "tools/crypto-blockchain-intel/Instagram-probiv-osint"]
+	path = tools/crypto-blockchain-intel/Instagram-probiv-osint
+	url = https://github.com/WPF0Ff/Instagram-probiv-osint
+[submodule "tools/crypto-blockchain-intel/ip_logger"]
+	path = tools/crypto-blockchain-intel/ip_logger
+	url = https://github.com/mazzz3r/ip_logger
+[submodule "tools/elite-asset-tracking/ARGUS"]
+	path = tools/elite-asset-tracking/ARGUS
+	url = https://github.com/0xhav0c/ARGUS
+[submodule "tools/elite-asset-tracking/n01d-overwatch"]
+	path = tools/elite-asset-tracking/n01d-overwatch
+	url = https://github.com/bad-antics/n01d-overwatch
+[submodule "tools/elite-asset-tracking/aegis-osint-map"]
+	path = tools/elite-asset-tracking/aegis-osint-map
+	url = https://github.com/FNBIP/aegis-osint-map
+[submodule "tools/elite-asset-tracking/Flight-Tracker"]
+	path = tools/elite-asset-tracking/Flight-Tracker
+	url = https://github.com/shallvhack/Flight-Tracker
+[submodule "tools/space-atmospheric-osint/Shadowbroker-archived"]
+	path = tools/space-atmospheric-osint/Shadowbroker-archived
+	url = https://github.com/johan-martensson/Shadowbroker-archived
+[submodule "tools/space-atmospheric-osint/SpaceRecon"]
+	path = tools/space-atmospheric-osint/SpaceRecon
+	url = https://github.com/chrishorton/SpaceRecon
+[submodule "tools/space-atmospheric-osint/starlink-finder"]
+	path = tools/space-atmospheric-osint/starlink-finder
+	url = https://github.com/stellaryx-labs/starlink-finder
+[submodule "tools/adversarial-hacker-tools/god-eye"]
+	path = tools/adversarial-hacker-tools/god-eye
+	url = https://github.com/ommengman-prog/god-eye
+[submodule "tools/adversarial-hacker-tools/medium-writeups"]
+	path = tools/adversarial-hacker-tools/medium-writeups
+	url = https://github.com/rix4uni/medium-writeups
+[submodule "tools/adversarial-hacker-tools/asnmap"]
+	path = tools/adversarial-hacker-tools/asnmap
+	url = https://github.com/projectdiscovery/asnmap
+[submodule "tools/ai-agent-swarms/crystal-ball"]
+	path = tools/ai-agent-swarms/crystal-ball
+	url = https://github.com/bradleybond512/crystal-ball
+[submodule "tools/ai-agent-swarms/equasis-cli"]
+	path = tools/ai-agent-swarms/equasis-cli
+	url = https://github.com/Laylanabil66/equasis-cli
+[submodule "tools/vibe-coded-systems/marielandryspyshop"]
+	path = tools/vibe-coded-systems/marielandryspyshop
+	url = https://github.com/MLSpyShop/marielandryspyshop
+[submodule "tools/vibe-coded-systems/osintax-lofi1"]
+	path = tools/vibe-coded-systems/osintax-lofi1
+	url = https://github.com/lofai12/osintax-lofi1
