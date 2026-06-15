@@ -276,3 +276,33 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Last Updated**: 2026-06-14
 - **Validation Status**: Passed
 
+
+### Expanded OSINT Toolkit
+
+*The following tools were discovered and added to expand our repository capabilities. Explicit care has been taken to identify the ownership and origin of these tools to respect the creators and organizations behind them.*
+
+#### [projectdiscovery/subfinder](https://github.com/projectdiscovery/subfinder)
+- **Description**: Fast passive subdomain enumeration tool.
+- **Origin & Ownership**: Owned and maintained by **projectdiscovery** (Entity Type: *Organization*). Licensed under: *MIT License*.
+- **Stars**: 13847 | **Last Updated**: 2026-06-15
+
+#### [lockfale/OSINT-Framework](https://github.com/lockfale/OSINT-Framework)
+- **Description**: OSINT Framework
+- **Origin & Ownership**: Owned and maintained by **lockfale** (Entity Type: *Organization*). Licensed under: *MIT License*.
+- **Stars**: 11487 | **Last Updated**: 2026-06-15
+
+#### [yogeshojha/rengine](https://github.com/yogeshojha/rengine)
+- **Description**: reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous monitoring, backed by a database, and simple yet intuitive User Interface. reNgine makes it easy for penetration testers to gather reconnaissance with minimal configuration and with the help of reNgine's correlation, it just makes recon effortless.
+- **Origin & Ownership**: Owned and maintained by **yogeshojha** (Entity Type: *User*). Licensed under: *GNU General Public License v3.0*.
+- **Stars**: 8694 | **Last Updated**: 2026-06-15
+
+#### [six2dez/reconftw](https://github.com/six2dez/reconftw)
+- **Description**: reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities
+- **Origin & Ownership**: Owned and maintained by **six2dez** (Entity Type: *User*). Licensed under: *MIT License*.
+- **Stars**: 7703 | **Last Updated**: 2026-06-15
+
+#### [j3ssie/osmedeus](https://github.com/j3ssie/osmedeus)
+- **Description**: A Modern Orchestration Engine for Security
+- **Origin & Ownership**: Owned and maintained by **j3ssie** (Entity Type: *User*). Licensed under: *MIT License*.
+- **Stars**: 6419 | **Last Updated**: 2026-06-15
+

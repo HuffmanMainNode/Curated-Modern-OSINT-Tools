@@ -118,3 +118,18 @@
 [submodule "tools/ai-agents/ai_osint"]
 	path = tools/ai-agents/ai_osint
 	url = https://github.com/7WaySecurity/ai_osint
+[submodule "tools/expanded/subfinder"]
+	path = tools/expanded/subfinder
+	url = https://github.com/projectdiscovery/subfinder
+[submodule "tools/expanded/OSINT-Framework"]
+	path = tools/expanded/OSINT-Framework
+	url = https://github.com/lockfale/OSINT-Framework
+[submodule "tools/expanded/rengine"]
+	path = tools/expanded/rengine
+	url = https://github.com/yogeshojha/rengine
+[submodule "tools/expanded/reconftw"]
+	path = tools/expanded/reconftw
+	url = https://github.com/six2dez/reconftw
+[submodule "tools/expanded/osmedeus"]
+	path = tools/expanded/osmedeus
+	url = https://github.com/j3ssie/osmedeus
