@@ -11,6 +11,29 @@ This repository is physically structured using Git submodules, ensuring you alwa
 - **Secure Communications**: Open-source, privacy-first methods for secure, untraceable collaboration among researchers.
 
 ---
+## Table of Contents
+- [1. Discovery](#1.-discovery)
+- [2. Validation (Zero Trust Approach)](#2.-validation-(zero-trust-approach))
+- [3. Categorization & Documentation](#3.-categorization--documentation)
+- [Popular OSINT Tools](#popular-osint-tools)
+- [Hidden Gems / Niche Tools](#hidden-gems-/-niche-tools)
+- [AI-Powered OSINT Agents](#ai-powered-osint-agents)
+- [Expanded OSINT Toolkit](#expanded-osint-toolkit)
+- [Next-Era & Innovative AI OSINT Tools](#next-era--innovative-ai-osint-tools)
+- [Expansive AI Platforms, Secure Comms & OSINT Frameworks](#expansive-ai-platforms-secure-comms--osint-frameworks)
+- [Expansive AI Platforms, Secure Comms & OSINT Frameworks](#expansive-ai-platforms-secure-comms--osint-frameworks)
+- [Massive Domain Expansion](#massive-domain-expansion)
+- [🏦 The AI Agents Vault](#🏦-the-ai-agents-vault)
+- [📚 Instructionals, Blueprints & Active Campaigns](#📚-instructionals-blueprints--active-campaigns)
+- [🕵️ Automated Hunt Additions](#🕵-automated-hunt-additions)
+- [🛡️ Counter Intelligence & Open Source Cybersecurity](#🛡-counter-intelligence--open-source-cybersecurity)
+- [🕸️ Data Scrapers, Dark Web, & Corporate Recon](#🕸-data-scrapers-dark-web--corporate-recon)
+- [🏛️ Government OSINT, Forensics, & Financial Tracking](#🏛-government-osint-forensics--financial-tracking)
+
+### ⚙️ The Core Engine: OSINT Platform Project
+
+While this repository serves as the definitive directory of external tools, we are actively developing an extensible, modular engine to unify data ingestion and AI processing: **[OSINT Platform Project](https://github.com/HuffmanMainNode/OSINT_Platform_Project)**. Check it out for a hands-on, API-driven intelligence backend.
+
 
 # Structured Methodology for OSINT Tool Curation
 
