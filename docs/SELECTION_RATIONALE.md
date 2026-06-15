@@ -156,3 +156,15 @@
 - **[onemorpheuss/kiro-cybersecurity-skills](https://github.com/onemorpheuss/kiro-cybersecurity-skills)**: Integrated into `under-the-radar-exploits`.
 - **[D3v4nshPat3l/ReconTitan](https://github.com/D3v4nshPat3l/ReconTitan)**: Integrated into `under-the-radar-exploits`.
 - **[zohanabbasi427-beep/Predator-Recon](https://github.com/zohanabbasi427-beep/Predator-Recon)**: Integrated into `under-the-radar-exploits`.
+
+## Ongoing Tool Integration
+
+- **[C3n7ral051nt4g3ncy/HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk)**: Integrated into `threat-intel`. Further expands the repository's capabilities.
+- **[NullArray/Mimir](https://github.com/NullArray/Mimir)**: Integrated into `threat-intel`. Further expands the repository's capabilities.
+- **[ninedter/pcap-hunter](https://github.com/ninedter/pcap-hunter)**: Integrated into `threat-intel`. Further expands the repository's capabilities.
+- **[projectdiscovery/httpx](https://github.com/projectdiscovery/httpx)**: Integrated into `geo-osint`. Further expands the repository's capabilities.
+- **[shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)**: Integrated into `geo-osint`. Further expands the repository's capabilities.
+- **[ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)**: Integrated into `geo-osint`. Further expands the repository's capabilities.
+- **[Nix4444/Pimeyes-scraper](https://github.com/Nix4444/Pimeyes-scraper)**: Integrated into `leak-osint`. Further expands the repository's capabilities.
+- **[bitsofinfo/comms-analyzer-toolbox](https://github.com/bitsofinfo/comms-analyzer-toolbox)**: Integrated into `leak-osint`. Further expands the repository's capabilities.
+- **[RocketGod-git/email-osint-discord-bot](https://github.com/RocketGod-git/email-osint-discord-bot)**: Integrated into `leak-osint`. Further expands the repository's capabilities.

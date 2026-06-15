@@ -592,3 +592,30 @@
 [submodule "tools/under-the-radar-exploits/Predator-Recon"]
 	path = tools/under-the-radar-exploits/Predator-Recon
 	url = https://github.com/zohanabbasi427-beep/Predator-Recon
+[submodule "tools/threat-intel/HandleHawk"]
+	path = tools/threat-intel/HandleHawk
+	url = https://github.com/C3n7ral051nt4g3ncy/HandleHawk
+[submodule "tools/threat-intel/Mimir"]
+	path = tools/threat-intel/Mimir
+	url = https://github.com/NullArray/Mimir
+[submodule "tools/threat-intel/pcap-hunter"]
+	path = tools/threat-intel/pcap-hunter
+	url = https://github.com/ninedter/pcap-hunter
+[submodule "tools/geo-osint/httpx"]
+	path = tools/geo-osint/httpx
+	url = https://github.com/projectdiscovery/httpx
+[submodule "tools/geo-osint/OneForAll"]
+	path = tools/geo-osint/OneForAll
+	url = https://github.com/shmilylty/OneForAll
+[submodule "tools/geo-osint/iOSInterviewQuestions"]
+	path = tools/geo-osint/iOSInterviewQuestions
+	url = https://github.com/ChenYilong/iOSInterviewQuestions
+[submodule "tools/leak-osint/Pimeyes-scraper"]
+	path = tools/leak-osint/Pimeyes-scraper
+	url = https://github.com/Nix4444/Pimeyes-scraper
+[submodule "tools/leak-osint/comms-analyzer-toolbox"]
+	path = tools/leak-osint/comms-analyzer-toolbox
+	url = https://github.com/bitsofinfo/comms-analyzer-toolbox
+[submodule "tools/leak-osint/email-osint-discord-bot"]
+	path = tools/leak-osint/email-osint-discord-bot
+	url = https://github.com/RocketGod-git/email-osint-discord-bot
