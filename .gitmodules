@@ -1,0 +1,90 @@
+[submodule "tools/popular/sherlock"]
+	path = tools/popular/sherlock
+	url = https://github.com/sherlock-project/sherlock
+[submodule "tools/popular/worldmonitor"]
+	path = tools/popular/worldmonitor
+	url = https://github.com/koala73/worldmonitor
+[submodule "tools/popular/web-check"]
+	path = tools/popular/web-check
+	url = https://github.com/lissy93/web-check
+[submodule "tools/popular/maigret"]
+	path = tools/popular/maigret
+	url = https://github.com/soxoj/maigret
+[submodule "tools/popular/awesome-osint"]
+	path = tools/popular/awesome-osint
+	url = https://github.com/jivoi/awesome-osint
+[submodule "tools/popular/social-analyzer"]
+	path = tools/popular/social-analyzer
+	url = https://github.com/qeeqbox/social-analyzer
+[submodule "tools/popular/SingleFile"]
+	path = tools/popular/SingleFile
+	url = https://github.com/gildas-lormeau/SingleFile
+[submodule "tools/popular/GHunt"]
+	path = tools/popular/GHunt
+	url = https://github.com/mxrch/GHunt
+[submodule "tools/popular/spiderfoot"]
+	path = tools/popular/spiderfoot
+	url = https://github.com/smicallef/spiderfoot
+[submodule "tools/popular/phoneinfoga"]
+	path = tools/popular/phoneinfoga
+	url = https://github.com/sundowndev/phoneinfoga
+[submodule "tools/popular/theHarvester"]
+	path = tools/popular/theHarvester
+	url = https://github.com/laramies/theHarvester
+[submodule "tools/popular/twint"]
+	path = tools/popular/twint
+	url = https://github.com/twintproject/twint
+[submodule "tools/popular/Anthropic-Cybersecurity-Skills"]
+	path = tools/popular/Anthropic-Cybersecurity-Skills
+	url = https://github.com/mukul975/Anthropic-Cybersecurity-Skills
+[submodule "tools/popular/amass"]
+	path = tools/popular/amass
+	url = https://github.com/owasp-amass/amass
+[submodule "tools/popular/GhostTrack"]
+	path = tools/popular/GhostTrack
+	url = https://github.com/HunxByts/GhostTrack
+[submodule "tools/niche/OsintInteractive"]
+	path = tools/niche/OsintInteractive
+	url = https://github.com/jp-220738/OsintInteractive
+[submodule "tools/niche/forensic"]
+	path = tools/niche/forensic
+	url = https://github.com/Chintan2604/forensic
+[submodule "tools/niche/tg-cybersec"]
+	path = tools/niche/tg-cybersec
+	url = https://github.com/simplefastfunnels254/tg-cybersec
+[submodule "tools/niche/antigravity-lobby-belangen-mapping-team"]
+	path = tools/niche/antigravity-lobby-belangen-mapping-team
+	url = https://github.com/TriggerMinds/antigravity-lobby-belangen-mapping-team
+[submodule "tools/niche/EstonianInternetFoundationDomains"]
+	path = tools/niche/EstonianInternetFoundationDomains
+	url = https://github.com/elliotwutingfeng/EstonianInternetFoundationDomains
+[submodule "tools/niche/InternetstiftelsenDomains"]
+	path = tools/niche/InternetstiftelsenDomains
+	url = https://github.com/elliotwutingfeng/InternetstiftelsenDomains
+[submodule "tools/niche/icovazby"]
+	path = tools/niche/icovazby
+	url = https://github.com/milos106/icovazby
+[submodule "tools/niche/vidit"]
+	path = tools/niche/vidit
+	url = https://github.com/vidithq/vidit
+[submodule "tools/niche/alaskaintel-json"]
+	path = tools/niche/alaskaintel-json
+	url = https://github.com/alaskaintel/alaskaintel-json
+[submodule "tools/niche/evez-engine"]
+	path = tools/niche/evez-engine
+	url = https://github.com/EvezArt/evez-engine
+[submodule "tools/niche/pulpit"]
+	path = tools/niche/pulpit
+	url = https://github.com/giovabal/pulpit
+[submodule "tools/niche/APIKeyScanner"]
+	path = tools/niche/APIKeyScanner
+	url = https://github.com/SobralCybersec/APIKeyScanner
+[submodule "tools/niche/historical-exchange-index"]
+	path = tools/niche/historical-exchange-index
+	url = https://github.com/badjoke-lab/historical-exchange-index
+[submodule "tools/niche/spectre-graph"]
+	path = tools/niche/spectre-graph
+	url = https://github.com/gabrielcoghi-rgb/spectre-graph
+[submodule "tools/niche/infowitz-cib-tiktok"]
+	path = tools/niche/infowitz-cib-tiktok
+	url = https://github.com/arabasta75/infowitz-cib-tiktok
