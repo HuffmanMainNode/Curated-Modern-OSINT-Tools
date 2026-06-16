@@ -254,12 +254,6 @@ A structured Markdown document (README.md) containing the categorized lists with
 
 ### AI-Powered OSINT Agents
 
-#### [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)
-- **Description**: 754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0
-- **Stars**: 15775
-- **Last Updated**: 2026-06-15
-- **Validation Status**: Passed
-
 #### [calesthio/Crucix](https://github.com/calesthio/Crucix)
 - **Description**: Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
 - **Stars**: 10246
@@ -618,16 +612,12 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Owner**: simplerhacking | **Stars**: 33 | **Last Updated**: 2026-05-27
 
 #### [anthophilee/SpiderFoot-](https://github.com/anthophilee/SpiderFoot-) - *Instructionals Blueprints*
-- **Description**: ادات جلب معلوماتUSES SpiderFoot can be used offensively (e.g. in a red team exercise or penetration test) for reconnaissance of your target or defensively to gather information about what you or your organisation might have exposed over the Internet.  You can target the following entities in a SpiderFoot scan:  IP address Domain/sub-domain name Hostname Network subnet (CIDR) ASN E-mail address Phone number Username Person's name Bitcoin address SpiderFoot's 200+ modules feed each other in a publisher/subscriber model to ensure maximum data extraction to do things like:  Host/sub-domain/TLD enumeration/extraction Email address, phone number and human name extraction Bitcoin and Ethereum address extraction Check for susceptibility to sub-domain hijacking DNS zone transfers Threat intelligence and Blacklist queries API integration with SHODAN, HaveIBeenPwned, GreyNoise, AlienVault, SecurityTrails, etc. Social media account enumeration S3/Azure/Digitalocean bucket enumeration/scraping IP geo-location Web scraping, web content analysis Image, document and binary file meta data analysis Dark web searches Port scanning and banner grabbing Data breach searches So much more... INSTALLING & RUNNING To install and run SpiderFoot, you need at least Python 3.6 and a number of Python libraries which you can install with pip. We recommend you install a packaged release since master will often have bleeding edge features and modules that aren't fully tested.  Stable build (packaged release): $ wget https://github.com/smicallef/spiderfoot/archive/v3.3.tar.gz $ tar zxvf v3.3.tar.gz $ cd spiderfoot ~/spiderfoot$ pip3 install -r requirements.txt ~/spiderfoot$ python3 ./sf.py -l 127.0.0.1:5001 Development build (cloning git master branch): $ git clone https://github.com/smicallef/spiderfoot.git $ cd spiderfoot $ pip3 install -r requirements.txt ~/spiderfoot$ python3 ./sf.py -l 127.0.0.1:5001 Check out the documentation and our asciinema videos for more tutorials.  COMMUNITY Whether you're a contributor, user or just curious about SpiderFoot and OSINT in general, we'd love to have you join our community! SpiderFoot now has a Discord server for chat, and a Discourse server to serve as a more permanent knowledge base.
+- **Description**: SpiderFoot automates OSINT for threat intelligence and mapping your attack surface. INSTALLING & RUNNING To install and run SpiderFoot, you need at least Python 3.6 and a number of Python libraries which you can install with pip. We recommend you install a packaged release since master will often have bleeding edge features and modules that aren't fully tested.  Stable build (packaged release): $ wget https://github.com/smicallef/spiderfoot/archive/v3.3.tar.gz $ tar zxvf v3.3.tar.gz $ cd spiderfoot ~/spiderfoot$ pip3 install -r requirements.txt ~/spiderfoot$ python3 ./sf.py -l 127.0.0.1:5001 Development build (cloning git master branch): $ git clone https://github.com/smicallef/spiderfoot.git $ cd spiderfoot $ pip3 install -r requirements.txt ~/spiderfoot$ python3 ./sf.py -l 127.0.0.1:5001 Check out the documentation and our asciinema videos for more tutorials.  COMMUNITY Whether you're a contributor, user or just curious about SpiderFoot and OSINT in general, we'd love to have you join our community! SpiderFoot now has a Discord server for chat, and a Discourse server to serve as a more permanent knowledge base.
 - **Owner**: anthophilee | **Stars**: 30 | **Last Updated**: 2026-06-13
 
 #### [WebBreacher/WhatsMyName](https://github.com/WebBreacher/WhatsMyName) - *Active Campaigns*
 - **Description**: Community-maintained dataset of 700+ websites for finding accounts by username — powers OSINT and digital footprint tools.
 - **Owner**: WebBreacher | **Stars**: 2576 | **Last Updated**: 2026-06-15
-
-#### [Jieyab89/OSINT-Cheat-sheet](https://github.com/Jieyab89/OSINT-Cheat-sheet) - *Active Campaigns*
-- **Description**: OSINT cheat sheet, list OSINT tools, wiki, dataset, article, book , red team OSINT for hackers and OSINT tips and OSINT branch. This repository will grow every time will research, there is a research, science and technology, tutorial. Please use it wisely.
-- **Owner**: Jieyab89 | **Stars**: 1973 | **Last Updated**: 2026-06-15
 
 #### [Cgboal/SonarSearch](https://github.com/Cgboal/SonarSearch) - *Active Campaigns*
 - **Description**: A rapid API for the Project Sonar dataset
@@ -704,11 +694,6 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Category**: `threat-actor-profiling`
 - **Description**: Finance & Banking - Advanced Threat Intelligence Plt. & Dynamic Policy Enforcer that ingests OSINT threat feeds, normalizes & scores indicators, stores intelligence in MongoDB, integrates with ELK SIEM, and automatically enforces firewall rules using Linux iptables for real-time threat mitigation.
 - **Stars**: 10 | **Last Updated**: 2026-06-14
-
-#### [Armaan29-09-2005/AI-OSINT-Security-Analyzer](https://github.com/Armaan29-09-2005/AI-OSINT-Security-Analyzer)
-- **Category**: `autonomous-intel`
-- **Description**: AI OSINT Security Analyzer is an intelligent platform that leverages AI to perform autonomous investigations across various intelligence sources. With features like multi-source integration and real-time threat intelligence, it ensures comprehensive security assessments. 🛡️🔍
-- **Stars**: 12 | **Last Updated**: 2026-06-15
 
 #### [affaan-m/JARVIS](https://github.com/affaan-m/JARVIS)
 - **Category**: `autonomous-intel`
@@ -819,11 +804,6 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Category**: `job-hunting-recon`
 - **Description**: The Offensive Manual Web Application Penetration Testing Framework.
 - **Stars**: 1864 | **Last Updated**: 2026-06-15
-
-#### [chadi0x/TheBigBrother](https://github.com/chadi0x/TheBigBrother)
-- **Category**: `job-hunting-recon`
-- **Description**: The Big Brother V5.0 is a weaponized OSINT platform featuring username enumeration (473+ platforms), quad-vector visual intelligence, Sky Radar tracking, crypto wallet analysis, SSL intelligence, digital footprint reconstruction, EXIF extraction, advanced dorking, and network reconnaissance.
-- **Stars**: 619 | **Last Updated**: 2026-06-15
 
 #### [3nock/OTE](https://github.com/3nock/OTE)
 - **Category**: `job-hunting-recon`
