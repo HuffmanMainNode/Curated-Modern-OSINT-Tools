@@ -60,12 +60,16 @@ def read_mappings(root: Path) -> list[dict]:
 
 def validate_url(value: str) -> bool:
     parsed = urlsplit(value)
+    try:
+        port_ok = parsed.port in (None, 443)
+    except ValueError:
+        return False
     return (
         parsed.scheme == "https"
         and parsed.hostname == "github.com"
         and parsed.username is None
         and parsed.password is None
-        and parsed.port in (None, 443)
+        and port_ok
         and not parsed.query
         and not parsed.fragment
         and bool(re.fullmatch(r"/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+(?:\.git)?/?", parsed.path))
