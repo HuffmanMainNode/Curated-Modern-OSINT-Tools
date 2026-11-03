@@ -22,6 +22,8 @@ if ! git rev-parse --show-toplevel >/dev/null 2>&1; then
   exit 2
 fi
 
+python scripts/audit_submodules.py --root .
+
 section=$(
   git config -f .gitmodules --get-regexp '^submodule\..*\.path$' |
     awk -v target="$target" '$2 == target { sub(/\.path$/, "", $1); print $1 }'
