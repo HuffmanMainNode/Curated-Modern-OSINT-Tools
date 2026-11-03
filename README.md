@@ -1,5 +1,7 @@
 # Curated Modern OSINT Tools
 
+![Submodules Tracked](https://img.shields.io/badge/Submodules_Tracked-232-blue)
+
 A community-oriented directory of third-party open-source intelligence and security research tools, maintained as Git submodules.
 
 **Important:** Inclusion is a discovery pointer, not a security review, endorsement, license approval, maintenance guarantee, or recommendation to run a tool. The repository does not continuously validate the code in every upstream project. Review each upstream repository, its current license, dependencies, permissions, data handling, and intended use before installation.
