@@ -16,6 +16,6 @@ Thank you for improving this directory. Contributions should make the catalogue 
 
 - Do not commit API keys, credentials, personal datasets, or downloaded private information.
 - Do not claim a tool has been security-reviewed unless the review and scope are documented.
-- Do not add tools whose primary purpose is stalking, doxxing, credential theft, unauthorized access, or harassment.
+- Do not add tools whose primary purpose is unauthorized access, credential theft, harassment, or invasive collection of private data.
 - Keep third-party code as submodules; do not copy it into this repository without checking its license.
 - Use least-privilege CI and do not execute unreviewed submodule code in CI.
