@@ -1,46 +1,22 @@
-<div align="center">
-  <h3>🏛️ Official Borrell & Huffman LLC Enterprise Portfolio</h3>
-  <p><i>This repository is a verified public asset of the Borrell & Huffman Intellectual Property Ecosystem.</i></p>
-  <p>
-    <img src="https://img.shields.io/badge/Enterprise-Borrell_%26_Huffman-blue.svg?style=for-the-badge" alt="Enterprise ID">
-    <img src="https://img.shields.io/badge/Status-Public_Showcase-success.svg?style=for-the-badge" alt="Status">
-    <img src="https://img.shields.io/badge/Clearance-Unclassified-yellow.svg?style=for-the-badge" alt="Clearance">
-  </p>
-</div>
+# Curated Modern OSINT Tools
 
----
+An open directory of third-party OSINT, research, and defensive-security projects maintained as Git submodules. The catalogue is a discovery resource, not a security certification or endorsement.
 
-# SB26-189 Compliance Boilerplate
+The submodule entries pin specific upstream commits. They do not automatically track the latest upstream revision. Retrieve and review third-party code deliberately before running it.
 
-## Pre-Decision Notice
-**[Insert this notice prominently before a user engages with the system]**
+## Current validation boundary
 
-> **NOTICE OF AUTOMATED DECISION-MAKING TECHNOLOGY (ADMT)**
-> Please be aware that this system uses an Automated Decision-Making Technology (ADMT) to materially influence a consequential decision affecting you. For more information on how this ADMT works and how your data is used, please see our [Link to full documentation/privacy policy].
-
----
-
-## Post-Adverse Decision Explanation
-**[Provide this explanation within 30 days of an adverse outcome]**
-
-> **EXPLANATION OF ADVERSE DECISION**
->
-> **The Decision:** You have received an adverse outcome regarding [State the specific decision, e.g., your application, eligibility, etc.].
->
-> **Role of ADMT:** This decision was materially influenced by our Automated Decision-Making Technology (ADMT), known as [Insert Name of ADMT], version [Insert Version Number], developed by [Insert Developer Name]. The ADMT processed the following types of personal data from these sources: [List types and sources of data].
->
-> **How to Request More Information or Exercise Your Rights:** You have the right to request additional information regarding this decision and the ADMT used. You may also exercise your consumer rights under Colorado law, including the right to correct data or opt-out. To do so, please follow this process: [Insert simple-to-follow instructions, e.g., click here, email us at X, or fill out this form].
-
+Automated checks validate local submodule metadata and its correspondence with Git's tracked gitlinks. They do not inspect upstream code, verify licenses, assess safety, or establish maintenance status. See [Catalog Integrity and Safe Use](docs/CATALOG_INTEGRITY.md) and [Selection Criteria](docs/SELECTION_CRITERIA.md).
 
 # The Ultimate Open-Source Intelligence (OSINT) Ecosystem
 
 ![Submodules Tracked](https://img.shields.io/badge/Submodules_Tracked-232-blue)
 
 ## Our Mission
-We are building a highly organized, zero-trust validated, and continuously expanding ecosystem of modern OSINT tools. Our goal is to aggregate everything from widely-adopted frameworks to cutting-edge AI agents and secure communication platforms, creating a centralized hub for researchers, analysts, and developers.
+We maintain a categorized discovery catalogue of modern OSINT and defensive-security tools. Inclusion is not a zero-trust security validation. Our goal is to aggregate everything from widely-adopted frameworks to cutting-edge AI agents and secure communication platforms, creating a centralized hub for researchers, analysts, and developers.
 
 ## Repository Organization
-This repository is physically structured using Git submodules, ensuring you always have access to the latest upstream code. We categorize our findings into the following domains:
+This repository is structured using Git submodules pinned to specific upstream commits. Updating a submodule pointer is a change to the reviewed version, not proof that the latest upstream code is safe. We categorize our findings into the following domains:
 - **Popular & General OSINT**: Industry-standard tools, reconnaissance scripts, and broad frameworks.
 - **Niche & Hidden Gems**: Highly specialized, lesser-known utilities built by independent creators.
 - **AI Agents & Platforms**: Next-generation, LLM-driven intelligence gathering, threat mapping, and autonomous agents.
@@ -107,7 +83,7 @@ A structured Markdown document (README.md) containing the categorized lists with
 - **Description**: Hunt down social media accounts by username across social networks
 - **Stars**: 85042
 - **Last Updated**: 2026-06-15
-- **Validation Status**: Passed
+- **Listing status**: Listed; not security-audited
 
 #### [koala73/worldmonitor](https://github.com/koala73/worldmonitor)
 - **Description**: Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
