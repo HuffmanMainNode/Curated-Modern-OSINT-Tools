@@ -8,8 +8,6 @@ The submodule entries pin specific upstream commits. They do not automatically t
 
 Automated checks validate local submodule metadata and its correspondence with Git's tracked gitlinks. They do not inspect upstream code, verify licenses, assess safety, or establish maintenance status. See [Catalog Integrity and Safe Use](docs/CATALOG_INTEGRITY.md) and [Selection Criteria](docs/SELECTION_CRITERIA.md).
 
-# The Ultimate Open-Source Intelligence (OSINT) Ecosystem
-
 ![Submodules Tracked](https://img.shields.io/badge/Submodules_Tracked-232-blue)
 
 ## Our Mission
@@ -57,6 +55,9 @@ Curate a comprehensive directory of open-source intelligence (OSINT) tools, enco
 - **Hidden Gems:** Niche, lesser-known projects, potentially with <=1 star, that provide unique capabilities.
 
 ## Methodology
+
+Automated metadata validation is not upstream code review. The old per-entry 'Passed' labels have been changed to 'Listed; not security-audited' wherever they appeared. Review dates, licenses, maintenance status, and safety assessments must be established separately.
+
 
 ### 1. Discovery
 Use GitHub API or other search mechanisms to discover repositories using OSINT-related topics and keywords.
