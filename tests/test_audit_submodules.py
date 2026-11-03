@@ -16,7 +16,8 @@ class SubmoduleAuditTests(unittest.TestCase):
             subprocess.run(["git", "-C", str(root), "config", "-f", ".gitmodules", f"submodule.{name}.url", url], check=True)
         for path, commit in gitlinks:
             subprocess.run(["git", "-C", str(root), "update-index", "--add", "--cacheinfo", f"160000,{commit},{path}"], check=True)
-        subprocess.run(["git", "-C", str(root), "add", ".gitmodules"], check=True)
+        if (root / ".gitmodules").exists():
+            subprocess.run(["git", "-C", str(root), "add", ".gitmodules"], check=True)
         subprocess.run(["git", "-C", str(root), "commit", "-qm", "fixture"], check=True)
 
     def test_matching_gitlink_and_mapping_pass(self):
