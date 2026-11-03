@@ -1,12 +1,27 @@
 # OSINT Tool Selection Criteria
 
-Every repository included in this ecosystem has been evaluated against the following core principles to ensure we maximize potential while maintaining a secure, zero-trust environment:
+This directory is a discovery catalogue, not a certification programme. Inclusion does not mean a tool is safe, trustworthy, maintained, legally suitable, or appropriate for every investigation.
 
-1. **Active Maintenance (Zero Trust)**: The tool must have been updated within the last 24 months. Abandonware poses critical security risks.
-2. **Community Value (Stars & Forks)**: For popular tools, high engagement indicates reliability and peer review. For niche tools, unique capabilities outweigh raw popularity.
-3. **Actionable Capability**: The tool must solve a specific intelligence gathering, data processing, or secure communication problem.
-4. **Open Source Transparency**: Code must be publicly verifiable to ensure no malicious backdoors or unauthorized data exfiltration exist.
+## Listing criteria
 
-## Category Rationales
+1. Clear purpose: the upstream project should have an identifiable use case and source repository.
+2. Source transparency: source and maintainer identity should be inspectable where available. Public source does not prove the absence of malicious behavior.
+3. Lifecycle evidence: record the date of the last observed upstream activity. Recent commits are a signal, not proof of quality; older stable projects may remain useful.
+4. License clarity: record the upstream license and note when it is absent, unclear, or incompatible with the intended use.
+5. Operational risk: document permissions, credentials, data sent to third parties, scraping behavior, and potentially intrusive functions.
+6. Provenance: keep the canonical upstream URL, pinned commit, category, review date, and reviewer notes.
 
-To maximize the potential of this repository, we have expanded far beyond basic social media scrapers into specialized domains. Detailed explanations for why specific tools and categories were selected are maintained in `SELECTION_RATIONALE.md`.
+## Review outcomes
+
+Use explicit states rather than a blanket "Passed" badge:
+
+- Listed: URL and pinned gitlink are present.
+- Metadata-valid: Git submodule metadata matches the Git index.
+- Upstream-reviewed: a dated human review inspected the upstream repository.
+- Security-reviewed: a scoped security review was completed and documented.
+
+Do not infer any higher state from popularity, stars, forks, commit recency, or public source availability.
+
+## Category rationales
+
+Category placement is navigational only. A project may appear in more than one category. Duplicate URLs should be disclosed and reviewed, not automatically removed.
