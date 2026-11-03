@@ -1,9 +1,9 @@
-name: Update Live Badges
+name: Validate catalog metadata
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
   push:
+    branches: [main]
+  pull_request:
     branches: [main]
   workflow_dispatch:
 
@@ -11,35 +11,21 @@ permissions:
   contents: read
 
 concurrency:
-  group: live-badges-${{ github.ref }}
+  group: catalog-metadata-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  update-badges:
-    if: github.event_name != 'pull_request'
+  validate:
     runs-on: ubuntu-latest
     timeout-minutes: 5
-    permissions:
-      contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 1
-      - name: Set up Python
-        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+          submodules: false
+          persist-credentials: false
+      - uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
         with:
-          python-version: "3.10"
-      - name: Update badge
-        run: python scripts/update_badges.py
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          if git diff --cached --quiet; then
-            echo "No badge changes."
-            exit 0
-          fi
-          git commit -m "Update live badges"
-          git push
+          python-version: "3.12"
+      - name: Verify badge count
+        run: python scripts/update_badges.py --check
